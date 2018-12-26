@@ -1,0 +1,681 @@
+id,date,created,amount,currency,local_amount,local_currency,category,emoji,description,address,notes,alt_category,category_comb,exclude
+tx_00009bnW4wU2keVCipi6PB,2018-10,2018-10-17T01:00:32Z,-18,GBP,-18,GBP,bills,,623394420110,,623394420110,,bills,0
+tx_00009cu5jwKKwmhut5S1nF,2018-11,2018-11-19T03:00:30Z,-18,GBP,-18,GBP,bills,,623394420110,,623394420110,,bills,0
+tx_00009dq8DIcib5K4iB4Fub,2018-12,2018-12-17T03:01:27Z,-18,GBP,-18,GBP,bills,,623394420110,,623394420110,,bills,0
+tx_00009bGNoeADsvHw3ct2e1,2018-10,2018-10-01T01:22:29Z,-22.95,GBP,-22.95,GBP,bills,,623394420110,,623394420110,,bills,0
+tx_00009dCARIgpZjtrMIBNir,2018-11,2018-11-27T20:17:57Z,-37.88,GBP,-37.88,GBP,bills,💳,AQUA MASTERCARD ECOM   MORLEY        GBR,,,,credit_card,0
+tx_00009dtMSTVGPVh5uzFnwP,2018-12,2018-12-18T16:25:13Z,-50,GBP,-50,GBP,bills,💳,AQUA MASTERCARD ECOM   MORLEY        GBR,,,,credit_card,0
+tx_00009ccfDlf9A2ZvWTyLOj,2018-11,2018-11-10T17:13:15Z,-63.97,GBP,-63.97,GBP,bills,💳,AQUA MASTERCARD ECOM   MORLEY        GBR,,,,credit_card,0
+tx_00009dJyuvYaVGCJRhcTVh,2018-12,2018-12-01T14:46:32Z,-75.54,GBP,-75.54,GBP,bills,,Debbie Blair (Faster Payments),,Isabel amount,,bills,0
+tx_00009dCKGAg21fAlMbqxgv,2018-11,2018-11-27T22:08:00Z,-82.46,GBP,-82.46,GBP,bills,,Debbie Blair (Faster Payments),,Splitwise 2018 nov,,bills,0
+tx_00009a2PTaynxgf8AT6bpp,2018-08,2018-08-25T09:43:02Z,-300,GBP,-300,GBP,bills,,Debbie Blair (P2P Payment),,Deposit,,bills,0
+tx_00009U6sQZdRtuHiVUPKzp,2018-03,2018-03-01T02:13:40Z,-683.33,GBP,-683.33,GBP,bills,,Liam Kirwin (Faster Payments),,Robert Sturrock,,expenses,0
+tx_00009UiibrtuiLvmwOtUET,2018-03,2018-03-19T08:22:41Z,-683.33,GBP,-683.33,GBP,bills,,Liam Kirwin (Faster Payments),,Rob rent feb,,expenses,0
+tx_00009dEifkOb9DyCOjUc2D,2018-11,2018-11-29T01:50:58Z,-900,GBP,-900,GBP,bills,,Debbie Blair (Faster Payments),,Robert Rent,,expenses,0
+tx_00009cRbsd4DUGwsBJMsV7,2018-11,2018-11-05T09:14:00Z,-1075,GBP,-1075,GBP,bills,,Debbie Blair (Faster Payments),,Rent,,expenses,0
+tx_00009a2PRNgePgCO1uBqD3,2018-08,2018-08-25T09:42:38Z,-1250,GBP,-1250,GBP,bills,,Debbie Blair (P2P Payment),,Rent,,expenses,0
+tx_00009UE3VDJmlINmLFLRMP,2018-03,2018-03-04T13:20:44Z,-10,GBP,-10,GBP,cash,🏦,BERMONDSEY TOWER       BERMONDSEY    GBR,,,,cash,0
+tx_00009VL7vabEd9Wgqkz97p,2018-04,2018-04-06T21:05:24Z,-30.71,GBP,-42.95,USD,cash,🏦,51 7TH AVENUE S        NEW YORK       NY,51 7TH AVENUE S,,,cash,0
+tx_00009UbETXKmwHow6gr7sP,2018-03,2018-03-15T17:42:03Z,-35.49,GBP,-40,EUR,cash,🏦,BANCO POPULAR          MADRID        ESP,SANTA ISABEL 12,,,cash,0
+tx_00009WHb1HDHmtFXQTJPvN,2018-05,2018-05-05T02:04:38Z,-200,GBP,-200,GBP,cash,,Robert Sturrock (Faster Payments),,Robert monzo,,to_saving,0
+tx_00009XJqtZh3EEYuvfdbPd,2018-06,2018-06-05T02:04:03Z,-200,GBP,-200,GBP,cash,,Robert Sturrock (Faster Payments),,Robert monzo,,to_saving,0
+tx_00009YK2Gi9j4nwph49xFR,2018-07,2018-07-05T02:03:35Z,-200,GBP,-200,GBP,cash,,Robert Sturrock (Faster Payments),,Robert monzo,,to_saving,0
+tx_00009ZMI9RCpjNjz3ZuHC5,2018-08,2018-08-05T02:03:04Z,-200,GBP,-200,GBP,cash,,Robert Sturrock (Faster Payments),,Robert monzo,,to_saving,0
+tx_00009aOY3ODPyDL07FdcTB,2018-09,2018-09-05T02:02:47Z,-200,GBP,-200,GBP,cash,,Robert Sturrock (Faster Payments),,Robert monzo,,to_saving,0
+tx_00009bOk1NEnsaLYwlmCVV,2018-10,2018-10-05T02:08:59Z,-200,GBP,-200,GBP,cash,,Robert Sturrock (Faster Payments),,Robert monzo,,to_saving,0
+tx_00009cQxUCB9oB3t3ORhuz,2018-11,2018-11-05T01:41:23Z,-200,GBP,-200,GBP,cash,,Robert Sturrock (Faster Payments),,Robert monzo,,to_saving,0
+tx_00009dR8PBazh9Njj3asrZ,2018-12,2018-12-05T01:35:50Z,-200,GBP,-200,GBP,cash,,Robert Sturrock (Faster Payments),,Robert monzo,,to_saving,0
+tx_00009ZTPNBWiskXHwKEPU9,2018-08,2018-08-08T12:26:58Z,-250,GBP,-250,GBP,cash,,Maria Lachenauer (P2P Payment),,More dolla dolla,,cash,1
+tx_00009aYWBC0oy6AcTBuoUb,2018-09,2018-09-09T21:28:54Z,-250,GBP,-250,GBP,cash,,Maria Lachenauer (P2P Payment),,More $$$,,cash,1
+tx_00009c6AovUeG6oFXYu7vN,2018-10,2018-10-26T01:01:51Z,-500,GBP,-500,GBP,cash,,VG0049379000176666,,VG0049379000176666,,vanguard,0
+tx_00009d8bK4hT6vRaZd8IE5,2018-11,2018-11-26T03:00:20Z,-500,GBP,-500,GBP,cash,,VG0049379000176666,,VG0049379000176666,,vanguard,0
+tx_00009ZXOkQKkfpMYf8Tl9V,2018-08,2018-08-10T10:38:49Z,-1500,GBP,-1500,GBP,cash,💵,RATESETTER             LONDON        GBR,,,,ratesetter,0
+tx_00009a7QY5YlHOPQ7oPIsk,2018-08,2018-08-27T19:48:36Z,-2000,GBP,-2000,GBP,cash,,VANGUARD               LONDON        GBR,,,,vanguard,0
+tx_00009WzfNiWzqjRFzKEjOD,2018-05,2018-05-26T08:20:48Z,8.12,GBP,10.87,USD,eating_out,,FRONTERA GRILL INC     CHICAGO       IL,445 North Clark Street,,,eating_out,0
+tx_00009bq5P5KRSbLQDOd7gH,2018-10,2018-10-18T06:45:47Z,-1.45,GBP,-1.45,GBP,eating_out,🍊,HMSHOST HEATHROW AIRPO HOUNSLOW      GBR,"Heathrow Airport, Terminal 2, Airside",,,eating_out,0
+tx_00009VpmBxntwz8vU3rLF3,2018-04,2018-04-21T15:57:54Z,-1.5,GBP,-1.5,GBP,eating_out,☕,IZ *THE GALLERY CAFE   Bethnal Green GBR,23 Old Ford Road,,,eating_out,0
+tx_00009Ts1msQUhYBuAbyPar,2018-02,2018-02-21T22:17:52Z,-1.52,GBP,-2.12,USD,eating_out,🍔,MCDONALD'S F17277      CHICAGO       IL,10000 West O'Hare Ave,,,eating_out,0
+tx_00009W61wVaBIkmtiaXy2T,2018-04,2018-04-29T12:09:46Z,-2,GBP,-2,GBP,eating_out,☕️,HEJ COFFEE             LONDON        GBR,1 Bermondsey Square,,,eating_out,0
+tx_00009WnupEBBSQAwsc1Zp3,2018-05,2018-05-20T16:17:19Z,-2,GBP,-2,GBP,eating_out,🎥,SHORTWAVE FILMS LTD    LONDON        GBR,10 Bermondsey Sq,,,eating_out,0
+tx_00009WvPU0j8jcyUGC3Wgj,2018-05,2018-05-24T07:03:49Z,-2,GBP,-2,GBP,eating_out,🍰,IZ *COMPTOIR GOURMAND  London        GBR,Queen Elizabeth Stre,,,eating_out,0
+tx_00009aJb20dnSkUJngH2Tx,2018-09,2018-09-02T16:42:36Z,-2,GBP,-2,GBP,eating_out,,CHAPTER 72             LONDON        GBR,72 Bermondsey Street,,,eating_out,0
+tx_00009aVqmB7KfqwNTPeK13,2018-09,2018-09-08T14:35:33Z,-2,GBP,-2,GBP,eating_out,☕️,FUCKOFFEE              LONDON        GBR,163 - 167 Bermondsey Street,,,eating_out,0
+tx_00009bLDXJ4Z1LmoAPNCFN,2018-10,2018-10-03T09:20:51Z,-2.2,GBP,-2.2,GBP,eating_out,,THE BUSINESS XCHANGE H CROYDON       GBR,3-5 Lansdowne Road,,,eating_out,0
+tx_00009VCKuL5ONHqFJcBSfx,2018-04,2018-04-02T15:18:27Z,-2.4,GBP,-3.37,USD,eating_out,☕,STARBUCKS STORE 2076   NEW YORK      NY,60 Wall Street,,,eating_out,0
+tx_00009UaL9Bg0G27jbCPhPl,2018-03,2018-03-15T07:22:06Z,-2.45,GBP,-2.45,GBP,eating_out,☕,COSTA COFFEE 43041930  LONDON SE1 9S GBR,Costa Coffee,,,eating_out,0
+tx_00009W4TvAi1pdLu4lTA3N,2018-04,2018-04-28T18:13:51Z,-2.5,GBP,-2.5,GBP,eating_out,,CHAPTER 72             LONDON        GBR,72 Bermondsey Street,,,eating_out,0
+tx_00009TxfF1RLeLjtRMGmtl,2018-02,2018-02-24T15:33:31Z,-2.6,GBP,-2.6,GBP,eating_out,☕️,HEJ COFFEE             LONDON        GBR,1 Bermondsey Square,,,eating_out,0
+tx_00009VMIzMKSvIT7IxTbdp,2018-04,2018-04-07T10:44:03Z,-2.65,GBP,-2.65,GBP,eating_out,☕,CAFFE NERO 512 GATWICK GATWICK       GBR,Gatwick Airport,,,eating_out,0
+tx_00009XGWNd0olz8ExSxFBJ,2018-06,2018-06-03T11:30:02Z,-2.65,GBP,-2.65,GBP,eating_out,☕,CAFFE NERO 512 GATWICK GATWICK       GBR,Gatwick Airport,,,eating_out,0
+tx_00009biUty7fFIFjhzIGH3,2018-10,2018-10-14T14:53:48Z,-2.7,GBP,-2.7,GBP,eating_out,☕️,FUCKOFFEE              LONDON        GBR,163 - 167 Bermondsey Street,,,eating_out,0
+tx_00009cmt2rN0wSDQKI0G4f,2018-11,2018-11-15T15:35:16Z,-2.7,GBP,-2.7,GBP,eating_out,☕,WATCH HOUSE COFFEE     LONDON        GBR,193 Bermondsey Street,,,eating_out,0
+tx_00009SmqBU548dPUrWbQ9p,2018-01,2018-01-20T12:22:12Z,-2.8,GBP,-2.8,GBP,eating_out,☕,WATCH HOUSE COFFEE     LONDON        GBR,193 Bermondsey Street,,,eating_out,0
+tx_00009T1ARzPG9jev9NJvPN,2018-01,2018-01-27T10:15:15Z,-2.8,GBP,-2.8,GBP,eating_out,☕,WATCH HOUSE COFFEE     LONDON        GBR,193 Bermondsey Street,,,eating_out,0
+tx_00009TIH0HmkEVDJTaGxyj,2018-02,2018-02-04T16:18:46Z,-2.8,GBP,-2.8,GBP,eating_out,,CHAPTER 72             LONDON        GBR,72 Bermondsey Street,,,eating_out,0
+tx_00009UvhN1YswJ9iSpk9jt,2018-03,2018-03-25T14:40:03Z,-2.8,GBP,-2.8,GBP,eating_out,☕,WATCH HOUSE COFFEE     LONDON        GBR,193 Bermondsey Street,,,eating_out,0
+tx_00009cNnJhIcBJvSQw2qMD,2018-11,2018-11-03T13:03:18Z,-2.8,GBP,-2.8,GBP,eating_out,,CHAPTER 72             LONDON        GBR,72 Bermondsey Street,,,eating_out,0
+tx_00009SYFH25YhxuCXNm2wT,2018-01,2018-01-13T11:22:40Z,-3,GBP,-3,GBP,eating_out,☕,WATCH HOUSE COFFEE     LONDON        GBR,193 Bermondsey Street,,,eating_out,0
+tx_00009TFvx3lNQK5ZhLQDMP,2018-02,2018-02-03T13:13:27Z,-3,GBP,-3,GBP,eating_out,🍺,IZ *SOUTHWARK BREWING  London        GBR,46 Druid Street,,,eating_out,0
+tx_00009ZL84MMd72QV8vw361,2018-08,2018-08-04T12:35:24Z,-3,GBP,-3,GBP,eating_out,,IZ *Greedy Goat        London        GBR,Shand Street,,,eating_out,0
+tx_00009ZZrjNZMkfG5KDbB1l,2018-08,2018-08-11T15:13:00Z,-3,GBP,-3,GBP,eating_out,☕️,HEJ COFFEE             LONDON        GBR,1 Bermondsey Square,,,eating_out,0
+tx_00009bg6xov4cNhcjvXMBN,2018-10,2018-10-13T11:16:09Z,-3,GBP,-3,GBP,eating_out,☕,WATCH HOUSE COFFEE     LONDON        GBR,193 Bermondsey Street,,,eating_out,0
+tx_00009T1KMZdbXDwi7XOuNV,2018-01,2018-01-27T12:06:19Z,-3.25,GBP,-3.25,GBP,eating_out,☕️,HEJ COFFEE             LONDON        GBR,1 Bermondsey Square,,,eating_out,0
+tx_00009cswxiwqOPmn2NMgdd,2018-11,2018-11-18T13:47:26Z,-3.25,GBP,-3.25,GBP,eating_out,☕️,Hej Coffee             London        GBR,1 Bermondsey Square,,,eating_out,0
+tx_00009Vct0CafK2d1modulN,2018-04,2018-04-15T10:42:58Z,-3.5,GBP,-3.5,GBP,eating_out,,New Row Coffee         LONDON WC2N 4 GBR,24 New Row,,,eating_out,0
+tx_00009c9UfNVTpeZJRPXryz,2018-10,2018-10-27T15:28:22Z,-3.7,GBP,-3.7,GBP,eating_out,☕️,FUCKOFFEE              LONDON        GBR,163 - 167 Bermondsey Street,,,eating_out,0
+tx_00009WOwQiiK8V6TyZjZSb,2018-05,2018-05-08T15:07:31Z,-3.8,GBP,-3.8,GBP,eating_out,,CHAPTER 72             LONDON        GBR,72 Bermondsey Street,,,eating_out,0
+tx_00009bLRv99MxkQLKhdE6T,2018-10,2018-10-03T12:02:02Z,-3.95,GBP,-3.95,GBP,eating_out,☕,CAFFE NERO CROYDON GEO CROYDON       GBR,"44 George St,",,,eating_out,0
+tx_00009byzFuIIGbFq5DVMjB,2018-10,2018-10-22T13:49:18Z,-3.99,GBP,-3.99,GBP,eating_out,☕,STARBUCKS              LONDON        GBR,49 Shad Thames,,,eating_out,0
+tx_00009W4Mf53mMtpOpf5YC9,2018-04,2018-04-28T16:52:30Z,-4,GBP,-4,GBP,eating_out,☕️,FUCKOFFEE              LONDON        GBR,163 - 167 Bermondsey Street,,,eating_out,0
+tx_00009aH4vNXULLVSxbVzyD,2018-09,2018-09-01T11:33:25Z,-4,GBP,-4,GBP,eating_out,🍴,IZ *The Castle Cafe    London        GBR,Green Lanes,,,eating_out,0
+tx_00009cr8OAxhZTW8ar9iqn,2018-11,2018-11-17T16:46:02Z,-4,GBP,-4,GBP,eating_out,,IZ *New Forest Cider   Burley        GBR,Pound Lane,,,eating_out,0
+tx_00009Txe261BDZpTv5Inir,2018-02,2018-02-24T15:19:58Z,-4.5,GBP,-4.5,GBP,eating_out,🍰,IZ *COMPTOIR GOURMAND  London        GBR,Queen Elizabeth Stre,,,eating_out,0
+tx_00009ctEf3XNPuHN3HfFbd,2018-11,2018-11-18T17:05:45Z,-4.5,GBP,-4.5,GBP,eating_out,☕,WATCH HOUSE COFFEE     LONDON        GBR,193 Bermondsey Street,,,eating_out,0
+tx_00009TIFvxpkN2fRDMSHEv,2018-02,2018-02-04T16:06:47Z,-4.6,GBP,-4.6,GBP,eating_out,🍰,IZ *COMPTOIR GOURMAND  London        GBR,Queen Elizabeth Stre,,,eating_out,0
+tx_00009V5nY6qkA3EetyFY8X,2018-03,2018-03-30T11:36:24Z,-4.6,GBP,-4.6,GBP,eating_out,,iZ *COMPTOIR GOURMAND  London        GBR,Queen Elizabeth Street,,,eating_out,0
+tx_00009dLpYYOPR4ey4YLm9R,2018-12,2018-12-02T12:11:04Z,-4.65,GBP,-4.65,GBP,eating_out,☕,CAFFE NERO             LONDON        GBR,"1 Joiner Street, London Bridge Station, London",,,eating_out,0
+tx_00009ak5jPFFuSkENtGbFx,2018-09,2018-09-15T11:29:05Z,-4.7,GBP,-4.7,GBP,eating_out,,CHAPTER 72             LONDON        GBR,72 Bermondsey Street,,,eating_out,0
+tx_00009cO2NL60ArY8QNPz6n,2018-11,2018-11-03T15:52:02Z,-4.9,GBP,-4.9,GBP,eating_out,,iZ *COMPTOIR GOURMAND  London        GBR,Maltby Street,,,eating_out,0
+tx_00009SaOIsXGU92pKBhFXl,2018-01,2018-01-14T12:13:16Z,-4.95,GBP,-4.95,GBP,eating_out,☕,WATCH HOUSE COFFEE     LONDON        GBR,193 Bermondsey Street,,,eating_out,0
+tx_00009Smu8vAXMsNb1gsfNx,2018-01,2018-01-20T13:06:34Z,-4.95,GBP,-4.95,GBP,eating_out,☕,WATCH HOUSE COFFEE     LONDON        GBR,193 Bermondsey Street,,,eating_out,0
+tx_00009XyD4n6bfkhOdb7iIz,2018-06,2018-06-24T13:21:02Z,-4.95,GBP,-4.95,GBP,eating_out,☕,WATCH HOUSE COFFEE     LONDON        GBR,193 Bermondsey Street,,,eating_out,0
+tx_00009bgCIKYxB8Q2c4ngBt,2018-10,2018-10-13T12:15:53Z,-4.95,GBP,-4.95,GBP,eating_out,☕,WATCH HOUSE COFFEE     LONDON        GBR,193 Bermondsey Street,,,eating_out,0
+tx_00009Wz8MRvgn9zBXCVdxp,2018-05,2018-05-26T02:10:49Z,-5.26,GBP,-7,USD,eating_out,,FRONTERA GRILL INC     CHICAGO       IL,445 North Clark Street,,,eating_out,0
+tx_00009XIrBi22lot8qT8zxp,2018-06,2018-06-04T14:32:37Z,-5.27,GBP,-6,EUR,eating_out,,SODEXO ROLAND G        PARIS 16      FRA,2 AV GORDON BENNET,,,eating_out,0
+tx_00009YXBVueGKxKKPAXfST,2018-07,2018-07-11T10:18:25Z,-5.35,GBP,-5.35,GBP,eating_out,☕,PRET A MANGER          GATWICK       GBR,"ACU06, SOUTH TERMINAL INTERNATIONAL DEPARTURE LOUNGE, Crawley",,,eating_out,0
+tx_00009ak733Skhm7eUbMTHF,2018-09,2018-09-15T11:43:50Z,-5.4,GBP,-5.4,GBP,eating_out,☕️,FUCKOFFEE              LONDON        GBR,163 - 167 Bermondsey Street,,,eating_out,0
+tx_00009WIlGMgaupscJl1cp7,2018-05,2018-05-05T15:34:07Z,-5.5,GBP,-5.5,GBP,eating_out,☕️,FUCKOFFEE              LONDON        GBR,163 - 167 Bermondsey Street,,,eating_out,0
+tx_00009WVcgNUk9pfOsdciHp,2018-05,2018-05-11T20:29:13Z,-5.5,GBP,-5.5,GBP,eating_out,🍔,MEATAILER LTD T/A MEAT LONDON        GBR,Coldharbour Lane,,,eating_out,0
+tx_00009WXNk6o9225Blv8fqL,2018-05,2018-05-12T16:51:15Z,-5.5,GBP,-5.5,GBP,eating_out,,49 CAFE                LONDON  WC1N  GBR,49 Marchmont Street,,,eating_out,0
+tx_00009a74AIp27XVmluvRY1,2018-08,2018-08-27T15:37:48Z,-5.5,GBP,-5.5,GBP,eating_out,☕️,HEJ COFFEE             LONDON        GBR,1 Bermondsey Square,,,eating_out,0
+tx_00009XxvrO27sfgohgPs4v,2018-06,2018-06-24T10:08:08Z,-5.6,GBP,-5.6,GBP,eating_out,☕️,HEJ COFFEE             LONDON        GBR,1 Bermondsey Square,,,eating_out,0
+tx_00009crDARx86QPsBBPc3d,2018-11,2018-11-17T17:39:35Z,-5.6,GBP,-5.6,GBP,eating_out,☕,CAFFE NERO             LONDON        GBR,CATHEDRAL STREET,,,eating_out,0
+tx_00009YPJfrSWIL2mS1F6aP,2018-07,2018-07-07T15:12:10Z,-5.7,GBP,-5.7,GBP,eating_out,🎥,SHORTWAVE FILMS LTD    LONDON        GBR,10 Bermondsey Sq,,,eating_out,0
+tx_00009TV6cmRc7NSn7x1MJ7,2018-02,2018-02-10T20:53:43Z,-5.99,GBP,-8.25,USD,eating_out,,EAST PEAK LODGE F&B    STATELINE     NV,POST OFFICE BOX 2125,,,eating_out,0
+tx_00009TFhHzDvzu6fBWc9g1,2018-02,2018-02-03T10:29:10Z,-6.2,GBP,-6.2,GBP,eating_out,☕️,HEJ COFFEE             LONDON        GBR,1 Bermondsey Square,,,eating_out,0
+tx_00009bRUMAaT5qOSSv514T,2018-10,2018-10-06T09:57:36Z,-6.2,GBP,-6.2,GBP,eating_out,☕,IZ *THE GENTLEMEN BARI St Albans     GBR,63 Union Street,,,eating_out,0
+tx_00009WncXvGKjqt32kIqG1,2018-05,2018-05-20T12:52:30Z,-6.25,GBP,-6.25,GBP,eating_out,☕️,HEJ COFFEE             LONDON        GBR,1 Bermondsey Square,,,eating_out,0
+tx_00009XV22KLEuayaUUDj2P,2018-06,2018-06-10T11:30:42Z,-6.25,GBP,-6.25,GBP,eating_out,☕️,HEJ COFFEE             LONDON        GBR,1 Bermondsey Square,,,eating_out,0
+tx_00009WOjQx6lJvSyTfWIW9,2018-05,2018-05-08T12:41:54Z,-6.35,GBP,-6.35,GBP,eating_out,,CHAPTER 72             LONDON        GBR,72 Bermondsey Street,,,eating_out,0
+tx_00009ZJG7yoP1z21QO2qa9,2018-08,2018-08-03T14:56:16Z,-6.47,GBP,-6.47,GBP,eating_out,🏨,THE BERMONDSEY SQUARE  LONDON        GBR,Bermondsey Square,,,eating_out,0
+tx_00009TSsjpuRqWFq9x9ATB,2018-02,2018-02-09T19:08:42Z,-6.78,GBP,-9.35,USD,eating_out,,SKY DECK LODGE F&B     STATELINE     NV,POST OFFICE BOX 2125,,,eating_out,0
+tx_00009cxK4AFWsJoGzTTiKn,2018-11,2018-11-20T16:25:09Z,-6.9,GBP,-6.9,GBP,eating_out,☕,WATCH HOUSE COFFEE     LONDON        GBR,193 Bermondsey Street,,,eating_out,0
+tx_00009dYTQdiY59HE5eibez,2018-12,2018-12-08T14:34:23Z,-7.2,GBP,-7.2,GBP,eating_out,☕,CAFFE NERO             LONDON        GBR,CATHEDRAL STREET,,,eating_out,0
+tx_00009ZZqHVwluWpEpCMW7V,2018-08,2018-08-11T14:56:45Z,-7.55,GBP,-7.55,GBP,eating_out,☕️,HEJ COFFEE             LONDON        GBR,1 Bermondsey Square,,,eating_out,0
+tx_00009ZeMBWLLUxxJTwskRl,2018-08,2018-08-13T19:13:04Z,-7.55,GBP,-7.55,GBP,eating_out,🍕,FRANCO MANCA           LONDON        GBR,124 Bermondsey Street,,,eating_out,0
+tx_00009TpfczMnSKBmlJnjKj,2018-02,2018-02-20T19:00:09Z,-7.66,GBP,-10.67,USD,eating_out,,UCD C SHOP             CHICAGO       IL,5706 S UNIVERSITY AVE,,,eating_out,0
+tx_00009XCmRwOBUeCFHrf3Q1,2018-06,2018-06-01T16:11:15Z,-7.74,GBP,-10.26,USD,eating_out,,FABIANAS BAKERY        CHICAGO       IL,1658 East 53rd Street,,,eating_out,0
+tx_00009UQeGJpaIEBpC8oRvN,2018-03,2018-03-10T15:09:10Z,-7.75,GBP,-7.75,GBP,eating_out,☕,WATCH HOUSE COFFEE     LONDON        GBR,193 Bermondsey Street,,,eating_out,0
+tx_00009TX5Tl9Xq4oDbi1iGP,2018-02,2018-02-11T19:50:18Z,-7.92,GBP,-10.92,USD,eating_out,,BOUDIN 477 VACAVILLE   DUBLIN        CA,1620 E MONTE VISTA AVE,,,eating_out,0
+tx_00009bFOVK9BzJ1bY6Ber3,2018-09,2018-09-30T13:55:29Z,-8,GBP,-8,GBP,eating_out,🍕,VOODOO RAYS POP UP      UNITED KINGD GBR,Bethnal Green Road,,,eating_out,0
+tx_00009Wz7JftiIoNpT9fGO9,2018-05,2018-05-26T01:59:06Z,-8.12,GBP,-10.87,USD,eating_out,,FRONTERA GRILL INC     CHICAGO       IL,445 North Clark Street,,,eating_out,0
+tx_00009Ts0eC3GGXtoTbOz0T,2018-02,2018-02-21T22:05:06Z,-8.34,GBP,-11.6,USD,eating_out,,GOOSE ISLAND BAR ORD   CHICAGO       IL,10000 West O'Hare Way,,,eating_out,0
+tx_00009VpaCKLOwmYrwQw4LB,2018-04,2018-04-21T13:43:31Z,-8.45,GBP,-8.45,GBP,eating_out,☕,WATCH HOUSE COFFEE     LONDON        GBR,193 Bermondsey Street,,,eating_out,0
+tx_00009X0ZFu6KXmS5kTZRM9,2018-05,2018-05-26T18:46:53Z,-8.48,GBP,-11.28,USD,eating_out,☕️,TST* FAIRGROUNDS       CHICAGO       IL,1620 North Milwaukee Avenue,,,eating_out,0
+tx_00009X0AQRDZm0CXqtJ55V,2018-05,2018-05-26T14:08:39Z,-8.51,GBP,-11.32,USD,eating_out,🏨,LOEWS HOTEL CHICAGO FB CHICAGO       IL,435 N MICHIGAN AVE S,,,eating_out,0
+tx_00009YCpTIM3enN6H9Prph,2018-07,2018-07-01T14:37:13Z,-9,GBP,-9,GBP,eating_out,🏨,THE BERMONDSEY SQUARE  LONDON        GBR,Bermondsey Square,,,eating_out,0
+tx_00009aJJ090lZWiZCatNej,2018-09,2018-09-02T13:20:34Z,-9,GBP,-9,GBP,eating_out,☕,WATCH HOUSE COFFEE     LONDON        GBR,193 Bermondsey Street,,,eating_out,0
+tx_00009bgOg9qfrdEHc2Ct3h,2018-10,2018-10-13T14:34:39Z,-9.1,GBP,-9.1,GBP,eating_out,🍺,IZ *SOUTHWARK BREWING  London        GBR,46 Druid Street,,,eating_out,0
+tx_00009WXBMM5fMQrqHp2dST,2018-05,2018-05-12T14:32:30Z,-9.15,GBP,-9.15,GBP,eating_out,🍺,LORD JOHN RUSSELL      LONDON WC1N   GBR,91-93 Marchmont Street,,,eating_out,0
+tx_00009VeryW3QH3SH6v3SZV,2018-04,2018-04-16T09:40:53Z,-9.3,GBP,-9.3,GBP,eating_out,☕,MONMOUTH COFFEE COVENT LONDON        GBR,27 Monmouth Street,,,eating_out,0
+tx_00009YNJFkDkCBcXWS9Cjp,2018-07,2018-07-06T15:58:02Z,-9.32,GBP,-9.32,GBP,eating_out,🍕,CABANA ST GILES PIAZZA LONDON        GBR,St Giles High Street,,,eating_out,0
+tx_00009a2jBvCc299LhiVr4D,2018-08,2018-08-25T13:23:56Z,-9.45,GBP,-9.45,GBP,eating_out,☕,WATCH HOUSE COFFEE     LONDON        GBR,193 Bermondsey Street,,,eating_out,0
+tx_00009YPGI01MVhYyzeJQUD,2018-07,2018-07-07T14:34:15Z,-9.5,GBP,-9.5,GBP,eating_out,🎥,SHORTWAVE FILMS LTD    LONDON        GBR,10 Bermondsey Sq,,,eating_out,0
+tx_00009TXbmduy9yoATQr1wP,2018-02,2018-02-12T01:52:16Z,-9.54,GBP,-13.17,USD,eating_out,,URBAN TORTILLA         SAN FRANCISCO CA,SFO AIRPORT TERMINAL 3,,,eating_out,0
+tx_00009USZDH3w1FFRcdQ6z3,2018-03,2018-03-11T13:22:01Z,-9.9,GBP,-9.9,GBP,eating_out,☕,WATCH HOUSE COFFEE     LONDON        GBR,193 Bermondsey Street,,,eating_out,0
+tx_00009aFdNGUT9UiOxtu1i5,2018-08,2018-08-31T18:50:00Z,-10,GBP,-10,GBP,eating_out,🏌️‍♂️,SWINGERS               LONDON        GBR,8 Brown's Buildings,,,eating_out,0
+tx_00009T3ZvDPy1kYgyEuzzd,2018-01,2018-01-28T14:10:04Z,-10.5,GBP,-10.5,GBP,eating_out,🎥,SHORTWAVE FILMS LTD    LONDON        GBR,10 Bermondsey Sq,,,eating_out,0
+tx_00009X99wHaOlihDttpDbV,2018-05,2018-05-30T22:15:36Z,-11.04,GBP,-14.62,USD,eating_out,☕️,SQ *PLEIN AIR CAFE     Chicago       IL,5751 South Woodlawn Avenue,,,eating_out,0
+tx_00009Zm2QZmKZ53lPUcPmj,2018-08,2018-08-17T12:09:23Z,-11.19,GBP,-11.19,GBP,eating_out,🍴,CARAVAN                LONDON  N1C   GBR,1 Granary Square,,,eating_out,0
+tx_00009VMsCCJ6zZ5hTtKFQ9,2018-04,2018-04-07T17:18:33Z,-11.2,GBP,-11.2,GBP,eating_out,☕,BYC TRADING LTD        LONDON  SE1   GBR,40 Bermondsey Street,,,eating_out,0
+tx_00009bq5LIFLUTDLZ1HtY1,2018-10,2018-10-18T06:45:06Z,-11.5,GBP,-11.5,GBP,eating_out,🍊,HMSHOST HEATHROW AIRPO HOUNSLOW      GBR,"Heathrow Airport, Terminal 2, Airside",,,eating_out,0
+tx_00009ax721OvPXHirbYdHd,2018-09,2018-09-21T18:14:54Z,-11.95,GBP,-11.95,GBP,eating_out,🌮🌯,WAHACA                 LONDON        GBR,66 Chandos Place,,,eating_out,0
+tx_00009X4gQhAwPy6sVc53s9,2018-05,2018-05-28T18:26:06Z,-12.12,GBP,-16,USD,eating_out,,THE PROMONTORY         CHICAGO       IL,5311 South Lake Park Avenue West,,,eating_out,0
+tx_00009Zq9vDvRLAWBScRKvR,2018-08,2018-08-19T11:52:12Z,-12.5,GBP,-12.5,GBP,eating_out,🥕,IZ *Stay Tropical      London        GBR,298 -299 Cambridge Heath Road,,,eating_out,0
+tx_00009dWyUjq5yKv6k17BRp,2018-12,2018-12-07T21:13:03Z,-13,GBP,-13,GBP,eating_out,🍴,NATURAL KITCHEN        LONDON  EC2R  GBR,"1A Copthall Avenue, Angel Court, London",,,eating_out,0
+tx_00009ZN5pqjI7YebGXEPuj,2018-08,2018-08-05T11:19:47Z,-13.4,GBP,-13.4,GBP,eating_out,☕,WATCH HOUSE COFFEE     LONDON        GBR,193 Bermondsey Street,,,eating_out,0
+tx_00009TT1ocBDDdscc5LEp7,2018-02,2018-02-09T20:50:24Z,-13.93,GBP,-19.2,USD,eating_out,,EAST PEAK LODGE F&B    STATELINE     NV,POST OFFICE BOX 2125,,,eating_out,0
+tx_00009Xe3KZCWFiLR2X0nHF,2018-06,2018-06-14T19:57:37Z,-14.05,GBP,-14.05,GBP,eating_out,🍕,FRANCO MANCA           LONDON        GBR,124 Bermondsey Street,,,eating_out,0
+tx_00009SZ2BFHpcZa4DSmsZF,2018-01,2018-01-13T20:30:39Z,-14.4,GBP,-14.4,GBP,eating_out,🍕,PIZZA EXPRESS          LONDON        GBR,31 Shad Thames,,,eating_out,0
+tx_00009WKsiP1usmXdgtEcYj,2018-05,2018-05-06T16:07:03Z,-14.5,GBP,-14.5,GBP,eating_out,🍺,WHITE CROSS            RICHMOND      GBR,Riverside,,,eating_out,0
+tx_00009caqu4cRmXtsU4upYv,2018-11,2018-11-09T20:14:44Z,-14.75,GBP,-14.75,GBP,eating_out,🍕,PIZZA EXPRESS          LONDON        GBR,31 Shad Thames,,,eating_out,0
+tx_00009bgr2zbYuibb9YsmTh,2018-10,2018-10-13T19:52:31Z,-15.3,GBP,-15.3,GBP,eating_out,🍕,FRANCO MANCA           LONDON        GBR,124 Bermondsey Street,,,eating_out,0
+tx_00009Tw0cyZjf61f1Vqnx3,2018-02,2018-02-23T20:23:43Z,-15.47,GBP,-15.47,GBP,eating_out,🍕,HOME SLICE             LONDON  WC2H  GBR,13 Neal's Yard,,,eating_out,0
+tx_00009XhSet1vJnikyB3Ijx,2018-06,2018-06-16T11:25:32Z,-15.5,GBP,-15.5,GBP,eating_out,☕,WATCH HOUSE COFFEE     LONDON        GBR,193 Bermondsey Street,,,eating_out,0
+tx_00009W60lfAVDmpSsGux8b,2018-04,2018-04-29T11:56:36Z,-15.53,GBP,-15.53,GBP,eating_out,🍺,VILLAGE EAST           LONDON  SE1   GBR,171-173 Bermondsey Street,,,eating_out,0
+tx_00009TVqY6kFoE2GStXQRd,2018-02,2018-02-11T05:28:17Z,-15.96,GBP,-22,USD,eating_out,,HARVEYS CASINO CABO WA STATELINE     NV,HIGHWAY 50  STATELINE,,,eating_out,0
+tx_00009dMCCBYJyKJvoHI0CP,2018-12,2018-12-02T16:24:45Z,-16.03,GBP,-16.03,GBP,eating_out,🐔,CHICK N SOURS          LONDON  E8 4  GBR,390 Kingsland Rd,,,eating_out,0
+tx_00009WVWdzqSW59y03qThJ,2018-05,2018-05-11T19:21:34Z,-16.35,GBP,-16.35,GBP,eating_out,🍔,HONEST BURGERS BRIXTON LONDON        GBR,"12, Brixton Village, London",,,eating_out,0
+tx_00009dWtYMaNs1OPO8R3fV,2018-12,2018-12-07T20:17:41Z,-16.45,GBP,-16.45,GBP,eating_out,🍴,NATURAL KITCHEN        LONDON  EC2R  GBR,"1A Copthall Avenue, Angel Court, London",,,eating_out,0
+tx_00009UEnBHTADJHe74Tl9V,2018-03,2018-03-04T21:52:34Z,-17,GBP,-17,GBP,eating_out,🍽,COTE BRASSERIE - HAYS  LONDON        GBR,Tooley Street,,,eating_out,0
+tx_00009baEeuhGY12K0mpCYj,2018-10,2018-10-10T15:14:06Z,-17,GBP,-17,GBP,eating_out,,Elizabeth Stone (P2P Payment),,For the burgers!,,eating_out,0
+tx_00009Z9Fl5MQZdErUhRZGz,2018-07,2018-07-29T19:05:01Z,-17.3,GBP,-17.3,GBP,eating_out,🍕,FRANCO MANCA           LONDON        GBR,124 Bermondsey Street,,,eating_out,0
+tx_00009SpD31vvalw5mRmcnR,2018-01,2018-01-21T15:47:49Z,-18,GBP,-18,GBP,eating_out,🌮,BREDDOS RESTAURANTS LI LONDON        GBR,"26 Kingly Street, so",,,eating_out,0
+tx_00009aFXuHU5sVTtsZ5SjZ,2018-08,2018-08-31T17:48:44Z,-18.9,GBP,-18.9,GBP,eating_out,🍕,PIZZA UNION LIMITED    LONDON        GBR,25 Sandy's Row,,,eating_out,0
+tx_00009Wz7wX6muieegMVvOb,2018-05,2018-05-26T02:06:08Z,-19.54,GBP,-26,USD,eating_out,,FRONTERA GRILL INC     CHICAGO       IL,445 North Clark Street,,,eating_out,0
+tx_00009bsCJ1padhlRcpB7Ef,2018-10,2018-10-19T07:12:33Z,-19.83,GBP,-25.7,CHF,eating_out,☕,STARBUCKS COFFEE       ZURICH        CHE,Kreuzplatz 22,,,eating_out,0
+tx_00009Us6jxO0LmuS6PA3EH,2018-03,2018-03-23T21:05:28Z,-21,GBP,-21,GBP,eating_out,🍕,FRANCO MANCA           LONDON        GBR,124 Bermondsey Street,,,eating_out,0
+tx_00009X0TPwp2gLsgtetVCr,2018-05,2018-05-26T17:41:28Z,-22.51,GBP,-29.95,USD,eating_out,☕️,TST* FAIRGROUNDS       CHICAGO       IL,1620 North Milwaukee Avenue,,,eating_out,0
+tx_00009Uhm5m1lDn6zyzzkq9,2018-03,2018-03-18T21:27:00Z,-22.57,GBP,-25.6,EUR,eating_out,,MERIMEE                MADRID        ESP,61 Calle de Fuencarral,,,eating_out,0
+tx_00009TwDE2DoGaMwUs24zR,2018-02,2018-02-23T22:44:53Z,-23.9,GBP,-23.9,GBP,eating_out,🍷,GORDONS WINE BAR       LONDON        GBR,47 Villiers Street,,,eating_out,0
+tx_00009ZeLbGMhQZJfVAE5SL,2018-08,2018-08-13T19:06:31Z,-25.35,GBP,-25.35,GBP,eating_out,🍕,FRANCO MANCA           LONDON        GBR,124 Bermondsey Street,,,eating_out,0
+tx_00009aifVXto947m7kGFRx,2018-09,2018-09-14T19:00:32Z,-25.47,GBP,-25.47,GBP,eating_out,,KILN                   LONDON        GBR,58 Brewer Street,,,eating_out,0
+tx_00009T6DaCMj84u06mr7Dd,2018-01,2018-01-29T20:43:54Z,-26.5,GBP,-26.5,GBP,eating_out,,CARAVAN CITY           LONDON  EC4N  GBR,22 Bloomberg Arcade,,,eating_out,0
+tx_00009WH38UGIH7szcPlsll,2018-05,2018-05-04T19:44:58Z,-27,GBP,-27,GBP,eating_out,🍕,FRANCO MANCA           LONDON        GBR,124 Bermondsey Street,,,eating_out,0
+tx_00009TqDYbpkPFFmzYVwrx,2018-02,2018-02-21T01:20:20Z,-29.48,GBP,-41,USD,eating_out,,FRONTERA GRILL INC     CHICAGO       IL,445 North Clark Street,,,eating_out,0
+tx_00009UbOqHgcHbSBmHYFSz,2018-03,2018-03-15T19:38:13Z,-29.81,GBP,-33.6,EUR,eating_out,,EL SUR DE TORRECILLA D MADRID        ESP,12 Calle de la Torrecilla del Leal,,,eating_out,0
+tx_00009aHn5raBtPeZvbJ5dZ,2018-09,2018-09-01T19:48:20Z,-30.38,GBP,-30.38,GBP,eating_out,🍕,JOSE                   LONDON SE1    GBR,104 Bermondsey Street,,,eating_out,0
+tx_00009ZboJhgxP3vwes8PEP,2018-08,2018-08-12T13:44:09Z,-34.88,GBP,-34.88,GBP,eating_out,,IZ *where the pancakes London        GBR,85A Southwark Bridge Road,,,eating_out,0
+tx_00009ZwaGMANevqrZRERUn,2018-08,2018-08-22T14:15:37Z,-35,GBP,-35,GBP,eating_out,,PIZZA ON THE GREEN\4 CAVENDISH PARADE\LONDON\SW4 9DW      GBR,4 Cavendish Parade,"Delayed from Monday, 20 Aug",,eating_out,0
+tx_00009WMinGw9myYAPLSNWL,2018-05,2018-05-07T13:25:18Z,-37.41,GBP,-37.41,GBP,eating_out,☕️,GREENBERRY CAFE        LONDON        GBR,101 Regent's Park Road,,,eating_out,0
+tx_00009Ufgn9vhF2EEev6WAr,2018-03,2018-03-17T21:18:11Z,-39.33,GBP,-44.5,EUR,eating_out,,TABERNA BACO Y BETO    MADRID        ESP,4 Calle de Gravina,,,eating_out,0
+tx_00009cnDqgrAItV7vtvMzR,2018-11,2018-11-15T19:28:22Z,-39.38,GBP,-39.38,GBP,eating_out,,KIN + DEUM             LONDON  SE1   GBR,2 Crucifix Lane,,,eating_out,0
+tx_00009VbiGoETqNvhDWuKWH,2018-04,2018-04-14T21:08:00Z,-42,GBP,-42,GBP,eating_out,🍴,THE TRAMSHED           LONDON  EC2A  GBR,32 Rivington St,,,eating_out,0
+tx_00009axFHjOAwkCz4Ny4uH,2018-09,2018-09-21T19:47:23Z,-47.4,GBP,-47.4,GBP,eating_out,🌮🌯,WAHACA                 LONDON        GBR,66 Chandos Place,,,eating_out,0
+tx_00009ZiZlgCgOKkAPLiN9d,2018-08,2018-08-15T20:04:07Z,-54,GBP,-54,GBP,eating_out,,THE GOOD EGG SOHO      LONDON        GBR,Kingly Street,,,eating_out,0
+tx_00009ZJhJxN2uezeLBNmtN,2018-08,2018-08-03T20:00:58Z,-54.23,GBP,-54.23,GBP,eating_out,🍽,COTE BRASSERIE - HAYS  LONDON        GBR,Tooley Street,,,eating_out,0
+tx_00009Wz2BwAvOohSuoGSYr,2018-05,2018-05-26T01:01:41Z,-55.61,GBP,-74,USD,eating_out,,FRONTERA GRILL INC     CHICAGO       IL,445 North Clark Street,,,eating_out,0
+tx_00009Ti2hkpffHogoWrvhR,2018-02,2018-02-17T02:41:02Z,-57.83,GBP,-81,USD,eating_out,,HOWELLS & HOOD         CHICAGO       IL,435 North Michigan Avenue,,,eating_out,0
+tx_00009cvmDLjZxAWFokdWkr,2018-11,2018-11-19T22:31:08Z,-99,GBP,-99,GBP,eating_out,🍽,SANTO REMEDIO          LONDON  SE1   GBR,152 Tooley Street,,,eating_out,0
+tx_00009X11vd0xG9LxdNjxi5,2018-05,2018-05-27T00:08:10Z,-112.72,GBP,-150,USD,eating_out,,THE LITTLE GOAT        CHICAGO       IL,West Randolph Street,,,eating_out,0
+tx_00009VAEdDkPPvqV8amw2T,2018-04,2018-04-01T14:58:42Z,1,GBP,1,GBP,entertainment,🎵,ITUNES.COM/BILL        ITUNES.COM    IRL,,,,entertainment,0
+tx_00009VAEXoY5g6U16yXDZR,2018-04,2018-04-01T14:57:43Z,-1,GBP,-1,GBP,entertainment,🎵,ITUNES.COM/BILL        ITUNES.COM    IRL,,,,entertainment,0
+tx_00009VUxos7u0lrseeuCw5,2018-04,2018-04-11T14:59:15Z,-1.99,GBP,-1.99,GBP,entertainment,🎵,ITUNES.COM/BILL        ITUNES.COM    IRL,,,,entertainment,0
+tx_00009cKQcAo6KXI0Ic3rk1,2018-11,2018-11-01T22:04:47Z,-2.25,GBP,-2.25,GBP,entertainment,,Ian Billett (P2P Payment),,Enjoy it bitchhhh,,entertainment,0
+tx_00009bgEPKQyFu7tVt7oJ7,2018-10,2018-10-13T12:39:33Z,-2.9,GBP,-2.9,GBP,entertainment,🎥,SHORTWAVE FILMS LTD    LONDON        GBR,10 Bermondsey Sq,,,entertainment,0
+tx_00009SPaEeh14WjnDNptbt,2018-01,2018-01-09T07:05:08Z,-3,GBP,-3,GBP,entertainment,⛰,THE ARCH CLIMBING WALL LONDON        GBR,121 Drummond Road,,,entertainment,0
+tx_00009U5GGnMQ1autYlhrfd,2018-02,2018-02-28T07:31:24Z,-3,GBP,-3,GBP,entertainment,⛰,THE ARCH CLIMBING WALL LONDON        GBR,121 Drummond Road,,,entertainment,0
+tx_00009ayM9ZSmrLLF0HNjiD,2018-09,2018-09-22T08:39:03Z,-3,GBP,-3,GBP,entertainment,⛰,THE ARCH CLIMBING WALL LONDON  SE16  GBR,Drummond Road,,,entertainment,0
+tx_00009cLD6CZf7VvDcCucUb,2018-11,2018-11-02T07:08:03Z,-3,GBP,-3,GBP,entertainment,⛰,THE ARCH CLIMBING WALL LONDON        GBR,121 Drummond Road,,,entertainment,0
+tx_00009cmADm4KUqqH8H5snZ,2018-11,2018-11-15T07:13:01Z,-3,GBP,-3,GBP,entertainment,⛰,THE ARCH CLIMBING WALL LONDON  SE16  GBR,Drummond Road,,,entertainment,0
+tx_00009YP6eoOWu5k5FlXszR,2018-07,2018-07-07T12:46:19Z,-3.2,GBP,-3.2,GBP,entertainment,⛰,THE ARCH CLIMBING WALL LONDON        GBR,121 Drummond Road,,,entertainment,0
+tx_00009WZVpXZS8uBcsxGDp3,2018-05,2018-05-13T17:31:17Z,-3.7,GBP,-3.7,GBP,entertainment,⛰,THE ARCH CLIMBING WALL LONDON  SE16  GBR,Drummond Road,,,entertainment,0
+tx_00009XwFxZbRO7AXvDolOL,2018-06,2018-06-23T14:43:55Z,-3.7,GBP,-3.7,GBP,entertainment,⛰,THE ARCH CLIMBING WALL LONDON        GBR,121 Drummond Road,,,entertainment,0
+tx_00009Xg5i2h3M2f030iXqb,2018-06,2018-06-15T19:33:41Z,-4,GBP,-4,GBP,entertainment,🍺,THE DRAFT HOUSE TOWER  LONDON        GBR,206-208 Tower Bridge Road,,,entertainment,0
+tx_00009Xy6YRXjhqy0MrRWBV,2018-06,2018-06-24T12:07:58Z,-4.15,GBP,-4.15,GBP,entertainment,🍺,WOOLPACK               LONDON        GBR,98 Bermondsey Street,,,entertainment,0
+tx_00009THy1HVCs7JLl8pYJN,2018-02,2018-02-04T12:46:03Z,-4.5,GBP,-4.5,GBP,entertainment,⛰,THE ARCH CLIMBING WALL LONDON        GBR,121 Drummond Road,,,entertainment,0
+tx_00009cKQlLclTvK9noLzd3,2018-11,2018-11-01T22:06:27Z,-4.5,GBP,-4.5,GBP,entertainment,,Liam Kirwin (P2P Payment),,From rikki,,entertainment,0
+tx_00009XWO7pGvjUBlMwc2fR,2018-06,2018-06-11T03:12:55Z,-4.8,GBP,-4.8,GBP,entertainment,🚅,TFL.GOV.UK/CP\VICTORIA STREET\TFL TRAVEL CH\SW1H 0TL     GBR,United Kingdom,"Travel charge for Saturday, 9 Jun",,entertainment,0
+tx_00009Xhrz50uyE7U4Ix5k1,2018-06,2018-06-16T16:09:19Z,-4.9,GBP,-4.9,GBP,entertainment,⛰,THE ARCH CLIMBING WALL LONDON  SE16  GBR,Drummond Road,,,entertainment,0
+tx_00009T3Pn6MxLntvFf0D9l,2018-01,2018-01-28T12:16:33Z,-5,GBP,-5,GBP,entertainment,⛰,THE ARCH CLIMBING WALL LONDON  SE16  GBR,Drummond Road,,,entertainment,0
+tx_00009W2RnNapSRTCfWkPmD,2018-04,2018-04-27T18:40:36Z,-5,GBP,-5,GBP,entertainment,⛰,THE ARCH CLIMBING WALL LONDON  SE16  GBR,Drummond Road,,,entertainment,0
+tx_00009aJBkdbJNG5HlFe2ID,2018-09,2018-09-02T11:59:20Z,-5,GBP,-5,GBP,entertainment,📺,SKY DIGITAL INTERN     LIVINGSTON    GBR,,,,entertainment,0
+tx_00009dJcdfBVvIYgrhVMGn,2018-12,2018-12-01T10:36:54Z,-5,GBP,-5,GBP,entertainment,⛰,THE ARCH CLIMBING WALL LONDON        GBR,121 Drummond Road,,,entertainment,0
+tx_00009daR7Wv5JxTmCTvPZR,2018-12,2018-12-09T13:17:56Z,-5,GBP,-5,GBP,entertainment,⛰,THE ARCH CLIMBING WALL LONDON  SE16  GBR,Drummond Road,,,entertainment,0
+tx_00009ceZ9j6YWCnyN2ceBd,2018-11,2018-11-11T15:14:43Z,-5.1,GBP,-5.1,GBP,entertainment,📚,WATERSTONES            PICCADILLY    GBR,203/206 Piccadilly,,,entertainment,0
+tx_00009Xb4JUAH0al8H3AEEb,2018-06,2018-06-13T09:24:29Z,-5.2,GBP,-5.2,GBP,entertainment,🚅,TFL.GOV.UK/CP\VICTORIA STREET\TFL TRAVEL CH\SW1H 0TL     GBR,United Kingdom,"Travel charge for Tuesday, 12 Jun",,entertainment,0
+tx_00009acOutK8lH7qRafbDl,2018-09,2018-09-11T18:26:22Z,-5.3,GBP,-5.3,GBP,entertainment,🍸,KOKO                   LONDON        GBR,1A Camden High Street,,,entertainment,0
+tx_00009cBHL77i7oKBIfx3yr,2018-10,2018-10-28T12:08:28Z,-5.5,GBP,-5.5,GBP,entertainment,⛰,THE ARCH CLIMBING WALL LONDON        GBR,121 Drummond Road,,,entertainment,0
+tx_00009SYlVV9cdYL3GncM6L,2018-01,2018-01-13T17:23:50Z,-5.7,GBP,-5.7,GBP,entertainment,🍺,THE SALT QUAY          ROTHERHITHE   GBR,163 Rotherhithe St,,,entertainment,0
+tx_00009Ud2KWuELsjMu8jPQw,2018-03,2018-03-16T14:35:23Z,-5.7,GBP,-6.45,EUR,entertainment,,MUSEO DEL PRADO        MADRID        ESP,s/n Paseo del Prado,,,entertainment,0
+tx_00009WN4QTTzB0GHeGoXuz,2018-05,2018-05-07T17:27:41Z,-5.85,GBP,-5.85,GBP,entertainment,🍺,PEMBROKE               PRIMROSE HILL GBR,150 Gloucester Avenue,,,entertainment,0
+tx_00009TxJbJvZOe04DyXps9,2018-02,2018-02-24T11:31:02Z,-6.5,GBP,-6.5,GBP,entertainment,⛰,THE ARCH CLIMBING WALL LONDON  SE16  GBR,Drummond Road,,,entertainment,0
+tx_00009Y30OYqU4cA7t6zfjV,2018-06,2018-06-26T20:52:30Z,-6.5,GBP,-6.5,GBP,entertainment,🍺,VICTORIA INN           PECKHAM       GBR,77-79 Choumert Road,,,entertainment,0
+tx_00009ZCHWXDvTsGYW74HWj,2018-07,2018-07-31T06:08:56Z,-6.5,GBP,-6.5,GBP,entertainment,⛰,THE ARCH CLIMBING WALL LONDON  SE16  GBR,Drummond Road,,,entertainment,0
+tx_00009XHye7rapPcjvHdufx,2018-06,2018-06-04T04:21:28Z,-6.7,GBP,-6.7,GBP,entertainment,🍸,CONTINENTAL BAR 1957   LONDON  N1C   GBR,Euston Road,,,entertainment,0
+tx_00009a5BJwEJHejbVRiR5l,2018-08,2018-08-26T17:48:33Z,-7.2,GBP,-7.2,GBP,entertainment,🍺,MARQUIS OF WELLINGTON  LONDON        GBR,21 Druid Street,,,entertainment,0
+tx_00009VhmkH4nFRMjc91lwn,2018-04,2018-04-17T19:26:25Z,-7.5,GBP,-7.5,GBP,entertainment,🎳,ELEPHANT CASTLE SUPERB LONDON        GBR,"1St Floor, Elephant & Castle Shopping Centre",,,entertainment,0
+tx_00009bgW5lRnuPj0g3KqxN,2018-10,2018-10-13T15:57:43Z,-7.5,GBP,-7.5,GBP,entertainment,🍺,HAWKES BREWING COMPANY LONDON  SE1   GBR,96 Druid Street,,,entertainment,0
+tx_00009b9jzd4F8jMR0OP8Ub,2018-09,2018-09-27T20:28:00Z,-7.99,GBP,-7.99,GBP,entertainment,,Audible UK             adbl.co/pymt  GBR,1 WASHINGTON PARK 16TH FL,,,entertainment,0
+tx_00009WjuPTjsCwwXHwJPtZ,2018-05,2018-05-18T17:53:49Z,-8,GBP,-8,GBP,entertainment,⛰,THE ARCH CLIMBING WALL LONDON        GBR,121 Drummond Road,,,entertainment,0
+tx_00009d5CZg0va2lzG1YKC9,2018-11,2018-11-24T11:38:54Z,-8,GBP,-8,GBP,entertainment,,Liam Kirwin (P2P Payment),,Splendorrrrrrrr 💎💎💎,,entertainment,0
+tx_00009dmZKva04sy6zWJcsD,2018-12,2018-12-15T09:46:32Z,-8.5,GBP,-8.5,GBP,entertainment,⛰,THE ARCH CLIMBING WALL LONDON        GBR,121 Drummond Road,,,entertainment,0
+tx_00009UCFPctxXa11sdlHFZ,2018-03,2018-03-03T16:24:46Z,-9,GBP,-9,GBP,entertainment,⛰,THE ARCH CLIMBING WALL LONDON  SE16  GBR,Drummond Road,,,entertainment,0
+tx_00009ceXn5NnQIUkKRrC3F,2018-11,2018-11-11T14:59:25Z,-9.99,GBP,-9.99,GBP,entertainment,📚,HATCHARDS              PICCADILLY    GBR,187 Piccadilly,,,entertainment,0
+tx_00009cav9SY9UQbGTuQ8Dh,2018-11,2018-11-09T21:02:20Z,-12,GBP,-12,GBP,entertainment,,FREEMANS EVENT PARTNER GLOUCESTER    GBR,"Tobacco Dock, Pennington St entrance, St Katharine's & Wapping, London",,,entertainment,0
+tx_00009cb2jTDVBe9cebscJl,2018-11,2018-11-09T22:27:17Z,-12,GBP,-12,GBP,entertainment,,FREEMANS EVENT PARTNER GLOUCESTER    GBR,"Tobacco Dock, Pennington St entrance, St Katharine's & Wapping, London",,,entertainment,0
+tx_00009aGpYiYeX0v59oTjtZ,2018-09,2018-09-01T08:41:14Z,-12.5,GBP,-12.5,GBP,entertainment,🏰,THE CASTLE CLIMBING CE LONDON N4     GBR,Green Lanes,,,entertainment,0
+tx_00009TThXipzPPSBD6MAvx,2018-02,2018-02-10T04:37:58Z,-13.79,GBP,-19,USD,entertainment,,ROOM 140 BREWERY       SOUTH LAKE TA CA,932 Stateline Avenue,,,entertainment,0
+tx_00009aeWj9jh6TX7eHRnNp,2018-09,2018-09-12T19:03:18Z,-13.95,GBP,-13.95,GBP,entertainment,🍺,ST JAMES OF BERMONDSEY SOLIHULL      GBR,72 St James's Road,,,entertainment,0
+tx_00009VN3y6mvuhzRsctKMr,2018-04,2018-04-07T19:30:28Z,-14.5,GBP,-14.5,GBP,entertainment,⛰,THE ARCH CLIMBING WALL LONDON        GBR,121 Drummond Road,,,entertainment,0
+tx_00009XGqM8tlFRDX83bw5R,2018-06,2018-06-03T15:13:52Z,-15.6,GBP,-15.6,GBP,entertainment,⛰,THE ARCH CLIMBING WALL LONDON        GBR,121 Drummond Road,,,entertainment,0
+tx_00009UgyINIvSPm3QekbSL,2018-03,2018-03-18T12:09:01Z,-17.68,GBP,-20,EUR,entertainment,,PALACIO REAL MADRID    MADRID        ESP,C.  Bailen S/n            0001,,,entertainment,0
+tx_00009crcFZS29GmkbGf8Hh,2018-11,2018-11-17T22:20:38Z,-18,GBP,-18,GBP,entertainment,☕️,SQ *BB&K LIMITED       London        GBR,6th Floor One London Wall London,,,entertainment,0
+tx_00009bFPRj8hE43jPIOw8f,2018-09,2018-09-30T14:06:02Z,-20.9,GBP,-20.9,GBP,entertainment,,RICH MIX               LONDON  E1    GBR,35-47 Bethnal Green Road,,,entertainment,0
+tx_00009Wg2l8eRJWEvS8GvxJ,2018-05,2018-05-16T21:08:32Z,-21.3,GBP,-21.3,GBP,entertainment,🎥,EMPIRE CINEMAS LTD     LONDON        GBR,63-65 Haymarket,,,entertainment,0
+tx_00009ZaE4Ikw2auMvlsjB3,2018-08,2018-08-11T19:23:17Z,-21.5,GBP,-21.5,GBP,entertainment,🎥,SHORTWAVE FILMS LTD    LONDON        GBR,10 Bermondsey Sq,,,entertainment,0
+tx_00009X0kyU0vTssKlhGKcj,2018-05,2018-05-26T20:58:11Z,-25.32,GBP,-33.7,USD,entertainment,📚,Myopic Books           CHICAGO       IL,1564 North Milwaukee Avenue,,,entertainment,0
+tx_00009UcuCNWkXSaNroLnm5,2018-03,2018-03-16T13:04:16Z,-26.51,GBP,-30,EUR,entertainment,,MUSEO DEL PRADO        MADRID        ESP,S/n Paseo Del Prado,,,entertainment,0
+tx_00009YHHNkvy3txaSTFEQb,2018-07,2018-07-03T18:08:48Z,-27,GBP,-27,GBP,entertainment,🍺,HAWKES BREWING COMPANY LONDON  SE1   GBR,96 Druid Street,,,entertainment,0
+tx_00009cemDvPrz8Sx9Io0qv,2018-11,2018-11-11T17:41:09Z,-48.87,GBP,-48.87,GBP,entertainment,🎬,VUE BSL LTD            WEST END      GBR,3 Cranbourn Street,,,entertainment,0
+tx_00009Y2uTwKfZs5LRCcrDN,2018-06,2018-06-26T19:46:14Z,-49.88,GBP,-49.88,GBP,entertainment,🍸,FRANKS CAFE            LONDON        GBR,10Th Floor,,,entertainment,0
+tx_00009WiHcFhpbQ7RAvdjzl,2018-05,2018-05-17T23:04:25Z,-75,GBP,-75,GBP,entertainment,🎁,Eventbrite             Dublin 8      IRL,,,,entertainment,0
+tx_00009Z5aCGDXXQ7gaFseVV,2018-07,2018-07-28T00:35:11Z,-75,GBP,-75,GBP,entertainment,🎭,ROYAL NATIONAL THEATRE LONDON  SE1   GBR,,,,entertainment,0
+tx_00009cePPQCRZkGZTu0A53,2018-11,2018-11-11T13:25:30Z,-75,GBP,-75,GBP,entertainment,📚,HATCHARDS              PICCADILLY    GBR,187 Piccadilly,,,entertainment,0
+tx_00009XVg2CykHb7DULLbur,2018-06,2018-06-10T18:58:53Z,-90,GBP,-90,GBP,entertainment,⛰,THE ARCH CLIMBING WALL LONDON        GBR,121 Drummond Road,,,entertainment,0
+tx_00009T6HJZHP576rGxNQYb,2018-01,2018-01-29T21:25:43Z,-164.42,GBP,-229.95,USD,entertainment,,SNOW.COM/VAIL RESORTS  VAIL          CO,,,,entertainment,0
+tx_00009dB27NlK0rgFwuskrZ,2018-11,2018-11-27T07:10:00Z,-450,GBP,-450,GBP,entertainment,⛰,THE ARCH CLIMBING WALL LONDON        GBR,121 Drummond Road,,,entertainment,0
+tx_00009b7CmodD9FJ1DqNYWH,2018-09,2018-09-26T15:06:30Z,-125.8,GBP,-125.8,GBP,general,,COVENT GARDEN DENTAL S LONDON WC2H   GBR,68A Neal Street,,,general,0
+tx_00009VfQZ7JScZxLNAkbkv,2018-04,2018-04-16T16:08:28Z,-204,GBP,-204,GBP,general,,COVENT GARDEN DENTAL S LONDON WC2H   GBR,68A Neal Street,,,general,0
+tx_00009ZHrg98cSB3UJXl3BJ,2018-08,2018-08-02T22:47:36Z,-225,GBP,-225,GBP,expenses,,Liam Kirwin (Faster Payments),,Isabel rent,,expenses,0
+tx_00009ZuxfBhFdG57iW1vE1,2018-08,2018-08-21T19:28:24Z,-250,GBP,-250,GBP,expenses,,Maria Lachenauer (P2P Payment),,More moneyz,,expenses,1
+tx_00009bF4H22cViWDk3gZ8b,2018-09,2018-09-30T10:08:48Z,-250,GBP,-250,GBP,expenses,,Maria Lachenauer (P2P Payment),,💰💰💰,,expenses,1
+tx_00009bodPUBU3Z5mVX8dOb,2018-10,2018-10-17T13:57:24Z,-350,GBP,-350,GBP,expenses,,Maria Lachenauer (P2P Payment),,Top up,,expenses,1
+tx_00009V98A56ffhJlVl4vez,2018-04,2018-04-01T02:11:29Z,-683.33,GBP,-683.33,GBP,expenses,,Liam Kirwin (Faster Payments),,Robert Sturrock,,expenses,0
+tx_00009W9Jd1lWJlwxNEbz61,2018-05,2018-05-01T02:12:05Z,-683.33,GBP,-683.33,GBP,expenses,,Liam Kirwin (Faster Payments),,Robert Sturrock,,expenses,0
+tx_00009XBZP4GcFnlycfJJfF,2018-06,2018-06-01T02:10:21Z,-683.33,GBP,-683.33,GBP,expenses,,Liam Kirwin (Faster Payments),,Robert Sturrock,,expenses,0
+tx_00009YBkeAVwSEy2cLHKoD,2018-07,2018-07-01T02:08:26Z,-683.33,GBP,-683.33,GBP,expenses,,Liam Kirwin (Faster Payments),,Robert Sturrock,,expenses,0
+tx_00009ZE0UAwG3TJVNYVF9F,2018-08,2018-08-01T02:07:26Z,-683.33,GBP,-683.33,GBP,expenses,,Liam Kirwin (Faster Payments),,Robert Sturrock,,expenses,0
+tx_00009bPQPYe3JbAUBRRp0z,2018-10,2018-10-05T10:03:58Z,-1250,GBP,-1250,GBP,expenses,,Debbie Blair (Faster Payments),,Rent,,expenses,0
+tx_00009XLkNTingYX5IC9Jyr,2018-06,2018-06-06T00:00:08Z,1000,GBP,1000,GBP,general,,98982886,,98982886,,general,1
+tx_00009XaFxOlFQITd7nLCfR,2018-06,2018-06-13T00:00:04Z,152.36,GBP,152.36,GBP,general,,98982886,,98982886,,general,0
+tx_00009ddWJpzJKmZIsARuPB,2018-12,2018-12-11T01:00:19Z,150,GBP,150,GBP,general,,98982886,,98982886,,general,0
+tx_00009dsbZSza0sdjKPFIYb,2018-12,2018-12-18T07:39:51Z,29.99,GBP,29.99,GBP,general,,AMZ*LHS Net Lighting\5 rue plaetis\800-279-6620\L2338     LUXLUX,5 Rue Plaetis,,,general,0
+tx_00009YmsTn7SZN0zBPCwbJ,2018-07,2018-07-19T00:00:17Z,17.91,GBP,17.91,GBP,general,,98982886,,98982886,,general,0
+tx_00009dVzbYuQuixzi2JR7R,2018-12,2018-12-07T09:50:47Z,10.97,GBP,10.97,GBP,general,,AMZ*ANSIO Direct\5 rue plaetis\800-279-6620\L2338     LUXLUX,5 Rue Plaetis,,,general,0
+tx_00009blMB4Kb6D8pPD3ClN,2018-10,2018-10-16T00:00:10Z,8.2,GBP,8.2,GBP,general,,98982886,,98982886,,general,0
+tx_00009ZqowAG0Yonl5fPIYL,2018-08,2018-08-19T19:31:47Z,6,GBP,6,GBP,general,📸,PHOTO ME INTERNATIONAL SURREY        GBR,Montfichet Road,Reversed by you,,general,0
+tx_00009a1aWfasAUDrteb5Rh,2018-08,2018-08-25T00:12:08Z,6,GBP,6,GBP,general,📸,PHOTO ME INTERNATIONAL SURREY        GBR,Montfichet Road,,,general,0
+tx_00009cSyKk1TbyaBMQ4nyr,2018-11,2018-11-06T01:00:18Z,3.1,GBP,3.1,GBP,general,,98982886,,98982886,,general,0
+tx_00009ZWTmdBi9s6pq6L4Of,2018-08,2018-08-10T00:00:21Z,0.4,GBP,0.4,GBP,general,,GG101HQ62E,,GG101HQ62E,,general,0
+tx_00009Zc5VNFqucdupsy1tB,2018-08,2018-08-12T16:56:45Z,0,GBP,0,GBP,general,💻,GOOGLE *SERVICES       g.co/helppay# GBR,,Active card check,,general,0
+tx_00009a1MK5U5CKafnzeJfN,2018-08,2018-08-24T21:32:59Z,0,GBP,0,GBP,general,💻,GOOGLE *SERVICES       g.co/helppay# GBR,,Active card check,,general,0
+tx_00009aheCn8mxVITmPOVpR,2018-09,2018-09-14T07:11:14Z,0,GBP,0,GBP,general,💻,GOOGLE *SERVICES       g.co/helppay# GBR,,Active card check,,general,0
+tx_00009ccewfxF88XNL9xVHF,2018-11,2018-11-10T17:10:10Z,0,GBP,0,GBP,general,💻,GOOGLE *SERVICES       g.co/helppay# GBR,,Active card check,,general,0
+tx_00009ccfAiSWcCeqgi4bfV,2018-11,2018-11-10T17:12:42Z,0,GBP,0,GBP,general,💻,GOOGLE *SERVICES       g.co/helppay# GBR,,Active card check,,general,0
+tx_00009dCAAq8Vy8XTdmOFhx,2018-11,2018-11-27T20:14:59Z,0,GBP,0,GBP,general,💻,GOOGLE *SERVICES       g.co/helppay# GBR,,Active card check,,general,0
+tx_00009dtMPZnSYSauHTih05,2018-12,2018-12-18T16:24:41Z,0,GBP,0,GBP,general,💻,GOOGLE *SERVICES       g.co/helppay# GBR,,Active card check,,general,0
+tx_00009ZbgstkJmKDo0c7JMv,2018-08,2018-08-12T12:20:53Z,-1.45,GBP,-1.45,GBP,general,✉️,PAYPAL *ROYAL MAIL     35314369001   GBR,,,,general,0
+tx_00009ZgKV23C1ayVjKUGDh,2018-08,2018-08-14T18:03:37Z,-1.45,GBP,-1.45,GBP,general,✉️,PAYPAL *ROYAL MAIL     35314369001   GBR,,,,general,0
+tx_00009SpECOEg8pb9Via4ED,2018-01,2018-01-21T16:00:43Z,-2.5,GBP,-2.5,GBP,general,,IZ *NEAT NUTRITION LIM LONDON        GBR,5 BIRDHURST ROAD,,,general,0
+tx_00009Tnq0Cszy3hIZseZBB,2018-02,2018-02-19T21:46:59Z,-2.56,GBP,-3.58,USD,general,,SQ *SANCTUARY CAFE BY  Chicago       IL,5753 South Maryland Avenue,,,general,0
+tx_00009XAxOpDIQTn74qyVUX,2018-05,2018-05-31T19:04:31Z,-3.32,GBP,-4.41,USD,general,,SQ *SANCTUARY CAFE BY  Chicago       IL,5753 South Maryland Avenue,,,general,0
+tx_00009ZLAO1ntSrYMMat5JB,2018-08,2018-08-04T13:01:22Z,-4,GBP,-4,GBP,general,,IZ *BOROUGH WINES & BE london        GBR,Stoke Newington Chur,,,general,0
+tx_00009TYxqOy252Bc8uqbEf,2018-02,2018-02-12T17:34:10Z,-4.8,GBP,-6.62,USD,general,,SQ *SANCTUARY CAFE BY  Chicago       IL,5753 South Maryland Avenue,,,general,0
+tx_00009ZnyKpZWv9nN9fYX7h,2018-08,2018-08-18T10:32:57Z,-6,GBP,-6,GBP,general,📸,PHOTO ME INTERNATIONAL SURREY        GBR,Montfichet Road,,,general,0
+tx_00009ZnyLXJmH4hkvunCfB,2018-08,2018-08-18T10:33:05Z,-6,GBP,-6,GBP,general,📸,PHOTO ME INTERNATIONAL SURREY        GBR,Montfichet Road,,,general,0
+tx_00009ZsYxNkmenGwP8o9lh,2018-08,2018-08-20T15:42:09Z,-6,GBP,-6,GBP,general,📸,PHOTO ME INTERNATIONAL\CHURCH ROAD\SURREY\KT23 3EU  GBRGBR,CHURCH ROAD,"Delayed from Saturday, 18 Aug",,general,0
+tx_00009bLAAMH2eYFb8eOLXl,2018-10,2018-10-03T08:43:06Z,-6,GBP,-6,GBP,general,📸,PHOTO ME INTERNATIONAL SURREY        GBR,Montfichet Road,,,general,0
+tx_00009TZ89yRVPHnYPmI3RR,2018-02,2018-02-12T19:29:46Z,-6.11,GBP,-8.43,USD,general,,SQ *SANCTUARY CAFE BY  Chicago       IL,5753 South Maryland Avenue,,,general,0
+tx_00009aP8PqgOPHQenJpab3,2018-09,2018-09-05T08:50:14Z,-8,GBP,-8,GBP,general,,PAYPAL *JAMESHORROC    35314369001   GBR,"2 Whittaker Avenue, Whitt",,,general,0
+tx_00009bgfHCkzc2E53xdgfJ,2018-10,2018-10-13T17:40:37Z,-8,GBP,-8,GBP,general,,BREW BY NUMBERS        LONDON        GBR,79 Enid Street,,,general,0
+tx_00009a1MMwxdLObzVPiMAj,2018-08,2018-08-24T21:33:30Z,-9.14,GBP,-9.14,GBP,general,💳,AQUA MASTERCARD ECOM   MORLEY        GBR,,,,general,0
+tx_00009UaVVolcbENKod7X8L,2018-03,2018-03-15T09:18:14Z,-9.77,GBP,-9.77,GBP,general,💊,BOOTS 2817             LONDON        GBR,,,,general,0
+tx_00009UxgBSU9IiG5NrH6eH,2018-03,2018-03-26T13:36:10Z,-12.34,GBP,-12.34,GBP,general,📮,POST OFFICE COUNTER    LONDON        GBR,181 High Holborn,,,general,0
+tx_00009XcDLxWXuqoOe2waTR,2018-06,2018-06-13T22:40:29Z,-17.64,GBP,-20,EUR,general,🏦,ABN AMRO               AMSTERDAM     NLD,,,,general,0
+tx_00009WP2U0IzmsMIFncoVt,2018-05,2018-05-08T16:15:20Z,-20,GBP,-20,GBP,general,🏦,SAINSBURYS             LONDON        GBR,Bermondsey Square,,,general,0
+tx_00009SYWGFdiXTkhUoxrST,2018-01,2018-01-13T14:33:00Z,-21.99,GBP,-21.99,GBP,general,🎾,DECATHLON              LONDON        GBR,Surrey Quays Road,,,general,0
+tx_00009ZqL9CXgNY9HQxVAdl,2018-08,2018-08-19T13:57:59Z,-30,GBP,-30,GBP,general,🏦,TESCO OLD ST H EXP     HACKNEY       GBR,79-85 Hackney Road,,,general,0
+tx_00009aXegm11lPODPM1eG9,2018-09,2018-09-09T11:29:32Z,-30,GBP,-30,GBP,general,🏦,TESCO HA RD LO EXP     LONDON        GBR,452 Hackney Road,,,general,0
+tx_00009aNcs8RCb1OvYVg3UH,2018-09,2018-09-04T15:22:04Z,-34.24,GBP,-34.24,GBP,general,,PAYPAL *DARRENGREEN    35314369001   GBR,"2 Whittaker Avenue, Whitt",,,general,0
+tx_00009ZqJuwuDcPAMoMVSj3,2018-08,2018-08-19T13:44:12Z,-34.5,GBP,-34.5,GBP,general,,IN BLOOM RETAIL LTD    UNITED KINGDO GBR,Columbia Road,,,general,0
+tx_00009bwoQWKwBzH59cgEGv,2018-10,2018-10-21T12:38:32Z,-38.58,GBP,-50,CHF,general,🏦,SKS Brunnen            Brunnen       CHE,,,,general,0
+tx_00009Y0e2SEZO5SqghiznV,2018-06,2018-06-25T17:32:34Z,-40,GBP,-40,GBP,general,🏦,SAINSBURYS             LONDON        GBR,Bermondsey Square,,,general,0
+tx_00009dp0h14fPqPtHSTxbd,2018-12,2018-12-16T14:02:29Z,-40,GBP,-40,GBP,general,🏦,BERMONDSEY TOWER       BERMONDSEY    GBR,,,,general,0
+tx_00009T6HzUqhwciEUTCJMn,2018-01,2018-01-29T21:33:17Z,-53.99,GBP,-75.51,USD,general,🎾,TAHOEPOWDERHOUSE.COM   S LAKE TAHOE  CA,4045 Lake Tahoe Blvd,,,general,0
+tx_00009ZRzUPmLV3CQdKpmOf,2018-08,2018-08-07T20:02:14Z,-77.29,GBP,-100,USD,general,,ELIOTINSTITUTE ORG     SEATTLE       WA,2628 31st Ave W,,,general,1
+tx_00009Zo0SMCoBjXoP6ufOD,2018-08,2018-08-18T10:56:43Z,-80,GBP,-80,GBP,general,🏦,PO BOROUGH HIG 0060070 LONDON -SOUTH GBR,,,,general,0
+tx_00009aheJlJi8dLtJkBDtJ,2018-09,2018-09-14T07:12:29Z,-90.64,GBP,-90.64,GBP,general,💳,AQUA MASTERCARD ECOM   MORLEY        GBR,,,,general,0
+tx_00009ZFcCojhLDgD0ojpHV,2018-08,2018-08-01T20:44:48Z,-100,GBP,-100,GBP,general,,Maria Lachenauer (P2P Payment),,Hiii,,general,1
+tx_00009UI4QxfLtKCK1R7fKj,2018-03,2018-03-06T11:50:01Z,-125.65,GBP,-125.65,GBP,general,,COVENT GARDEN DENTAL S LONDON WC2H   GBR,68A Neal Street,,,general,0
+tx_00009WoMITdpkKb0J9mDAn,2018-05,2018-05-20T21:25:08Z,-1000,GBP,-1000,GBP,general,,Hoopla Business (Faster Payments),,Google,,general,1
+tx_00009UN2GVGxNHDIwoOg53,2018-03,2018-03-08T21:19:16Z,0,GBP,0,GBP,groceries,🍷,Nakedwines             Norwich       GBR,,Active card check,,groceries,0
+tx_00009UZFc0TSC356R9al0r,2018-03,2018-03-14T18:45:22Z,-0.1,GBP,-0.1,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009dJnm4HDcAdAXih6ht,2018-12,2018-12-01T12:41:41Z,-0.1,GBP,-0.1,GBP,groceries,🍏,TESCO STORES 4359      LONDON        GBR,Jamaica Road,,,groceries,0
+tx_00009cEcvt0GGcnx6MyREn,2018-10,2018-10-30T02:54:33Z,-0.58,GBP,-0.58,GBP,groceries,🍏,TESCO-STORES 6485\125 TOOLEY STREET\LONDON METRO\SE1 2RS   GBRGBR,125 Tooley Street,,,groceries,0
+tx_00009VP3r0FIEHHLLsQr21,2018-04,2018-04-08T18:38:36Z,-0.8,GBP,-0.8,GBP,groceries,🍏,SAINSBURYS SACAT4820   LONDON SE1    GBR,13-14 Bermondsey Sq.,,,groceries,0
+tx_00009ZPmTypA1rcUSntL9d,2018-08,2018-08-06T18:27:04Z,-1.05,GBP,-1.05,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009UfhSsihcHEzNdGuif,2018-03,2018-03-17T21:25:43Z,-2.25,GBP,-2.55,EUR,groceries,🍏,CARREFOUR EXPRESS      MADRID        ESP,13 Calle de Gravina,,,groceries,0
+tx_00009WImF41cuWb1MzNgPp,2018-05,2018-05-05T15:45:05Z,-2.4,GBP,-2.4,GBP,groceries,,THE GIDDY GROCER LTD   LONDON        GBR,80 Bermondsey Street,,,groceries,0
+tx_00009Zwys7kK7TBKBk0JRh,2018-08,2018-08-22T18:51:22Z,-2.5,GBP,-2.5,GBP,groceries,,THE GIDDY GROCER LTD   LONDON        GBR,80 Bermondsey Street,,,groceries,0
+tx_00009doy0YOfRorEGhShMn,2018-12,2018-12-16T13:32:24Z,-2.88,GBP,-2.88,GBP,groceries,,THAKORJA GENERAL STORE LONDON  SE1   GBR,7 Wild's Rents,,,groceries,0
+tx_00009dYmcNPuPaM9lFQF5F,2018-12,2018-12-08T18:09:24Z,-2.98,GBP,-2.98,GBP,groceries,,A & N (LONDON) LTD     LONDON        GBR,134 Tooley Street,,,groceries,0
+tx_00009YRn7CA0im7VSdtIkT,2018-07,2018-07-08T19:51:29Z,-2.99,GBP,-2.99,GBP,groceries,🍷,K S FOOD AND WINE      LONDON        GBR,35a Charing Cross Road,,,groceries,0
+tx_00009SYUV5mvFW1E6hccdt,2018-01,2018-01-13T14:13:16Z,-3,GBP,-3,GBP,groceries,🍏,SAINSBURYS SACAT (4539 CANADA WATER  GBR,30-32 Surrey Quays Road,,,groceries,0
+tx_00009WYzbpCuZqJKNW2eqv,2018-05,2018-05-13T11:30:15Z,-3,GBP,-3,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009WIzvRV3JzdHbUtgbR,2018-05,2018-05-05T18:18:25Z,-3.4,GBP,-3.4,GBP,groceries,,THE GIDDY GROCER LTD   LONDON        GBR,80 Bermondsey Street,,,groceries,0
+tx_00009T08ldzF6pkpRZR40v,2018-01,2018-01-26T22:21:40Z,-3.6,GBP,-3.6,GBP,groceries,🍏,TESCO STORES 4539      LONDON        GBR,Jamaica Road,,,groceries,0
+tx_00009ctPzIfxwO5sTDD44n,2018-11,2018-11-18T19:12:40Z,-3.98,GBP,-3.98,GBP,groceries,,A & N (LONDON) LTD     LONDON        GBR,134 Tooley Street,,,groceries,0
+tx_00009ZLbnq0ucU1BYDLfc1,2018-08,2018-08-04T18:08:34Z,-4,GBP,-4,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009aigShe1YVBDbI2437,2018-09,2018-09-14T19:11:14Z,-4.1,GBP,-4.1,GBP,groceries,,CONJURE                LONDON        GBR,9 Brewer Street,,,groceries,0
+tx_00009YAiF4T1PF58o0UCZ7,2018-06,2018-06-30T14:06:47Z,-4.62,GBP,-4.62,GBP,groceries,,Ian Billett (P2P Payment),,Nachos,,groceries,0
+tx_00009d7nnVoSOEXZLtFEwb,2018-11,2018-11-25T17:45:24Z,-4.65,GBP,-4.65,GBP,groceries,🍏,SAINSBURYS SACAT 4321  GUYS HOSPITAL GBR,Great Maze Pond,,,groceries,0
+tx_00009VuJ5fiIN5OhdOtZaL,2018-04,2018-04-23T20:25:23Z,-4.95,GBP,-4.95,GBP,groceries,🍏,SAINSBURYS SACAT4820   LONDON SE1    GBR,13-14 Bermondsey Sq.,,,groceries,0
+tx_00009XiBjB88SaLNH1EVFZ,2018-06,2018-06-16T19:50:33Z,-4.98,GBP,-4.98,GBP,groceries,🍏,BERMONDSEY STREET LOND LONDON        GBR,107 Bermondsey Street,,,groceries,0
+tx_00009UCgAxPzfvrh8Lf1mL,2018-03,2018-03-03T21:24:39Z,-4.99,GBP,-4.99,GBP,groceries,🗞🍫,LORDSHIP FOOD AND WINE LONDON        GBR,141 Lordship Lane,,,groceries,0
+tx_00009VLHltdhz8lqR29nLl,2018-04,2018-04-06T22:55:42Z,-5,GBP,-7,USD,groceries,,GOURMET DELI ON 8TH    NEW YORK      NY,134 8th Avenue,,,groceries,0
+tx_00009ZY2eTkz1vg8FLyjyr,2018-08,2018-08-10T18:05:56Z,-5.5,GBP,-5.5,GBP,groceries,,THE GIDDY GROCER LTD   LONDON        GBR,80 Bermondsey Street,,,groceries,0
+tx_00009baVnMMdGQ5IHJX0jJ,2018-10,2018-10-10T18:26:07Z,-5.75,GBP,-5.75,GBP,groceries,,THE GIDDY GROCER LTD   LONDON        GBR,80 Bermondsey Street,,,groceries,0
+tx_00009VnuEWOwhR7R9SWNBR,2018-04,2018-04-20T18:18:35Z,-5.98,GBP,-5.98,GBP,groceries,,BERMONDSEY STREET      LONDON SE1    GBR,107 Bermondsey Street,,,groceries,0
+tx_00009Xg034qvvD9V6JzBCb,2018-06,2018-06-15T18:30:16Z,-5.98,GBP,-5.98,GBP,groceries,🍏,BERMONDSEY STREET LOND LONDON        GBR,107 Bermondsey Street,,,groceries,0
+tx_00009SnPpiLU1BkP5CCTpp,2018-01,2018-01-20T19:01:39Z,-6,GBP,-6,GBP,groceries,🍏,TESCO STORES 4359      LONDON        GBR,Jamaica Road,,,groceries,0
+tx_00009YAEgLj8LSbfWv76WH,2018-06,2018-06-30T08:35:34Z,-6.04,GBP,-6.04,GBP,groceries,🍏,TESCO STORES 5518      LONDON        GBR,"34 Long Ln, Tabard Square, London",,,groceries,0
+tx_00009XkJ7maruZoCcl3tw1,2018-06,2018-06-17T20:22:51Z,-6.05,GBP,-6.05,GBP,groceries,🍏,SAINSBURYS SACAT4820   LONDON SE1    GBR,13-14 Bermondsey Sq.,,,groceries,0
+tx_00009XJL2DHwha7QtrncAL,2018-06,2018-06-04T20:07:03Z,-6.11,GBP,-6.95,EUR,groceries,🍏,AUCHAN SUPER SC        PARIS 8       FRA,7 9 Bld Des Batignoles,,,groceries,0
+tx_00009UAU9UwGULaPXyggmf,2018-03,2018-03-02T20:00:30Z,-6.14,GBP,-6.14,GBP,groceries,🍏,CO-OP GROUP FOOD RETAI LONDON        GBR,28-32 Denmark Hill,,,groceries,0
+tx_00009XJJX93aHjq9SWsHRZ,2018-06,2018-06-04T19:50:14Z,-6.18,GBP,-7.04,EUR,groceries,🍏,AUCHAN SUPER SC        PARIS 8       FRA,7 9 Bld Des Batignoles,,,groceries,0
+tx_00009VN7eTQUR78pG5IBt3,2018-04,2018-04-07T20:11:44Z,-6.19,GBP,-6.19,GBP,groceries,🍏,TESCO STORES 4539      LONDON        GBR,Jamaica Road,,,groceries,0
+tx_00009ZLL00FigBF8h1mO3t,2018-08,2018-08-04T15:00:16Z,-6.2,GBP,-6.2,GBP,groceries,🍝,LA TUA PASTA           LONDON        GBR,UNIT 4 NUCLEUS PARK,,,groceries,0
+tx_00009dG8HmV4SpUlwOiGjx,2018-11,2018-11-29T18:12:40Z,-6.25,GBP,-6.25,GBP,groceries,🍏,SANSBURYS SACAT 2020   LONDON        GBR,15-17 Tottenham Ct Rd,,,groceries,0
+tx_00009bFgrRPdSFnRLjBKu9,2018-09,2018-09-30T17:21:10Z,-6.4,GBP,-6.4,GBP,groceries,🍏,SAINSBURYS SACAT 4321  GUYS HOSPITAL GBR,Great Maze Pond,,,groceries,0
+tx_00009d5cGmLeP4eJ4ABZSb,2018-11,2018-11-24T16:26:49Z,-6.5,GBP,-6.5,GBP,groceries,🍏,TESCO STORES 6560      LONDON SE5    GBR,316/322 Camberwell New Road,,,groceries,0
+tx_00009aypjLqHsPkx1P8m5R,2018-09,2018-09-22T14:10:28Z,-6.95,GBP,-6.95,GBP,groceries,🍏,SAINSBURYS SACAT4820   LONDON SE1    GBR,13-14 Bermondsey Sq.,,,groceries,0
+tx_00009aRx7piEl8E3pTFQ7l,2018-09,2018-09-06T17:27:51Z,-6.99,GBP,-6.99,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009UCOlgOw6o35xlRLTl,2018-03,2018-03-03T18:09:36Z,-7.73,GBP,-7.73,GBP,groceries,🍏,SAINSBURYS SACAT4820   LONDON SE1    GBR,13-14 Bermondsey Sq.,,,groceries,0
+tx_00009WvOfAmLbSeSTlFZ6f,2018-05,2018-05-24T06:54:38Z,-7.95,GBP,-7.95,GBP,groceries,🍏,SAINSBURYS SACAT4820   LONDON SE1    GBR,13-14 Bermondsey Sq.,,,groceries,0
+tx_00009TbWXPdDGuoigPJ5g9,2018-02,2018-02-13T23:12:20Z,-8.05,GBP,-11.13,USD,groceries,🍏,HYDE PARK PRODUCE      CHICAGO       IL,1226 East 53rd Street,,,groceries,0
+tx_00009agEFEKa2s9EinS5kP,2018-09,2018-09-13T14:45:38Z,-8.3,GBP,-8.3,GBP,groceries,🍑,PLANET ORGANIC         LONDON  W1T   GBR,23-24 Tottenham Court Walk,,,groceries,0
+tx_00009ctEQgiDU1zqpP7gvJ,2018-11,2018-11-18T17:03:09Z,-8.3,GBP,-8.3,GBP,groceries,🍏,SAINSBURYS LOC4820     BERMONDSEY    GBR,13-14 Bermondsey Sq.,,,groceries,0
+tx_00009dn9PGoGgQV92crVx3,2018-12,2018-12-15T16:30:42Z,-8.41,GBP,-8.41,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009YB4BRzYCLYjWhrlCL,2018-06,2018-06-30T18:12:38Z,-9,GBP,-9,GBP,groceries,🍏,CO-OP GROUP FOOD RETAI LONDON        GBR,Denmark Hill,,,groceries,0
+tx_00009UZFWZoNtc5YABERVJ,2018-03,2018-03-14T18:44:23Z,-9.06,GBP,-9.06,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009TEXZ9XJiOmuf8rf6n,2018-02,2018-02-02T21:05:30Z,-9.55,GBP,-9.55,GBP,groceries,🍏,SAINSBURYS LOC4820     BERMONDSEY    GBR,13-14 Bermondsey Sq.,,,groceries,0
+tx_00009bii6UK4ePkkSFOkCn,2018-10,2018-10-14T17:21:43Z,-9.75,GBP,-9.75,GBP,groceries,🍏,SAINSBURYS LOC4820     BERMONDSEY    GBR,13-14 Bermondsey Sq.,,,groceries,0
+tx_00009cl7DWu0OJXGAYwsdd,2018-11,2018-11-14T19:04:39Z,-9.97,GBP,-9.97,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009cBiqShcdpXv3gfz5V,2018-10,2018-10-28T17:16:40Z,-10.12,GBP,-10.12,GBP,groceries,🍏,SAINSBURYS SACAT4820   LONDON SE1    GBR,13-14 Bermondsey Sq.,,,groceries,0
+tx_00009Sb1VN9UNN40lQq2aX,2018-01,2018-01-14T19:32:31Z,-10.5,GBP,-10.5,GBP,groceries,🍏,SAINSBURYS SACAT4820   LONDON SE1    GBR,13-14 Bermondsey Sq.,,,groceries,0
+tx_00009Uvc6YuJD01oCfTKQz,2018-03,2018-03-25T13:41:03Z,-10.64,GBP,-10.64,GBP,groceries,🍏,TESCO STORES 4539      LONDON        GBR,Jamaica Road,,,groceries,0
+tx_00009WzCKbnZWluFNe5fCz,2018-05,2018-05-26T02:55:18Z,-10.85,GBP,-14.44,USD,groceries,🍎,WHOLEFDS STV #10       CHICAGO       IL,255 East Grand Avenue,,,groceries,0
+tx_00009aLpWpgM2nKDTzIcMr,2018-09,2018-09-03T18:34:27Z,-11,GBP,-11,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009VP2EdNGiSFzIbsCVl,2018-04,2018-04-08T18:20:28Z,-11.07,GBP,-11.07,GBP,groceries,🍏,SAINSBURYS SACAT4820   LONDON SE1    GBR,13-14 Bermondsey Sq.,,,groceries,0
+tx_00009W4YuUxjXpk7XyirPV,2018-04,2018-04-28T19:09:45Z,-11.15,GBP,-11.15,GBP,groceries,🍏,SAINSBURYS SACAT4820   LONDON SE1    GBR,13-14 Bermondsey Sq.,,,groceries,0
+tx_00009aNqwG45Zy5sRwG8TR,2018-09,2018-09-04T17:59:41Z,-11.16,GBP,-11.16,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009U4CdY6qIhN5wd3UqP,2018-02,2018-02-27T19:15:59Z,-11.17,GBP,-11.17,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009dC6cGmibC0r9cHABt,2018-11,2018-11-27T19:35:07Z,-11.19,GBP,-11.19,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009UKo3L5k7zsfCgeqrx,2018-03,2018-03-07T19:30:36Z,-11.2,GBP,-11.2,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009at1QcTHrLXUVcFu8f,2018-09,2018-09-19T18:53:16Z,-11.37,GBP,-11.37,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009T3RErqp1TPsHom8p7,2018-01,2018-01-28T12:32:47Z,-11.45,GBP,-11.45,GBP,groceries,🍏,TESCO STORES 4539      LONDON        GBR,Jamaica Road,,,groceries,0
+tx_00009ZBEINF7IZ5QUHDlDt,2018-07,2018-07-30T17:58:03Z,-11.46,GBP,-11.46,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009dK42rsKZfw0E5m7Fp,2018-12,2018-12-01T15:44:00Z,-11.52,GBP,-11.52,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009cqyXLfs73yAskYEkL,2018-11,2018-11-17T14:55:39Z,-11.65,GBP,-11.65,GBP,groceries,🍏,TESCO STORES 4359      LONDON        GBR,Jamaica Road,,,groceries,0
+tx_00009a2yKbMoeJXq6WslsX,2018-08,2018-08-25T16:13:35Z,-11.74,GBP,-11.74,GBP,groceries,🍏,SAINSBURYS SACAT4820   LONDON SE1    GBR,13-14 Bermondsey Sq.,,,groceries,0
+tx_00009U6IF2bUm3c3K50f7R,2018-02,2018-02-28T19:28:12Z,-11.75,GBP,-11.75,GBP,groceries,🍏,SAINSBURYS SACAT4820   LONDON SE1    GBR,13-14 Bermondsey Sq.,,,groceries,0
+tx_00009Ty3KRF5XiYqboxuEL,2018-02,2018-02-24T20:03:25Z,-11.9,GBP,-11.9,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009SOVj7YTdKFIY9fvjl,2018-01,2018-01-08T18:39:54Z,-12.04,GBP,-12.04,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009a9NNqa4CmcBCxIDMP,2018-08,2018-08-28T18:22:33Z,-12.3,GBP,-12.3,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009bkopRdIUFU6zGtAFF,2018-10,2018-10-15T17:46:30Z,-13.18,GBP,-13.18,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009ZgNpnVRaxlkzAd0HR,2018-08,2018-08-14T18:40:59Z,-13.33,GBP,-13.33,GBP,groceries,🍏,TESCO-STORES 6485      LONDON  METRO GBR,125 Tooley St,,,groceries,0
+tx_00009ccRZXiyGUcsKnr4Mr,2018-11,2018-11-10T14:40:19Z,-13.59,GBP,-13.59,GBP,groceries,🍏,TESCO STORES 4359      LONDON        GBR,Jamaica Road,,,groceries,0
+tx_00009XhtkBqtSmPfeFsVZB,2018-06,2018-06-16T16:29:02Z,-13.6,GBP,-13.6,GBP,groceries,🍏,TESCO STORES 4359      LONDON        GBR,Jamaica Road,,,groceries,0
+tx_00009baPnuFafwrijHN2Nl,2018-10,2018-10-10T17:18:59Z,-13.65,GBP,-13.65,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009aHoRDGiYnMBwXTXij,2018-09,2018-09-01T20:03:23Z,-13.7,GBP,-13.7,GBP,groceries,🍏,SAINSBURYS LOC4820     BERMONDSEY    GBR,13-14 Bermondsey Sq.,,,groceries,0
+tx_00009b5O1nonAG1smxdLwf,2018-09,2018-09-25T18:03:02Z,-13.84,GBP,-13.84,GBP,groceries,🍏,TESCO-STORES 6485      LONDON  METRO GBR,125 Tooley St,,,groceries,0
+tx_00009cxTOBBO0wO3IefJfF,2018-11,2018-11-20T18:09:37Z,-13.9,GBP,-13.9,GBP,groceries,🍏,SAINSBURYS SACAT4820   LONDON SE1    GBR,13-14 Bermondsey Sq.,,,groceries,0
+tx_00009dYmKzWhyxR4DpqKcD,2018-12,2018-12-08T18:06:15Z,-14.12,GBP,-14.12,GBP,groceries,🍏,TESCO-STORES 6485      LONDON  METRO GBR,125 Tooley St,,,groceries,0
+tx_00009cI7QFmDjyUzcQcBzV,2018-10,2018-10-31T19:20:19Z,-14.4,GBP,-14.4,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009b9ZZFCOGEJfSTao5J,2018-09,2018-09-27T18:31:11Z,-14.42,GBP,-14.42,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009YRPmmKakLUAcD8ToX,2018-07,2018-07-08T15:30:04Z,-14.6,GBP,-14.6,GBP,groceries,🍏,SAINSBURYS SACAT4820   LONDON SE1    GBR,13-14 Bermondsey Sq.,,,groceries,0
+tx_00009Wk8DxzBK6qQP3nOyH,2018-05,2018-05-18T20:28:37Z,-14.63,GBP,-14.63,GBP,groceries,🍏,TESCO STORES 4539      LONDON        GBR,Jamaica Road,,,groceries,0
+tx_00009WNAHGOj3W5hr0bgWX,2018-05,2018-05-07T18:33:15Z,-14.87,GBP,-14.87,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009TCCBclKumeD0CRRA1,2018-02,2018-02-01T17:56:31Z,-15.41,GBP,-15.41,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009YLS5ATGldbQa3cGPp,2018-07,2018-07-05T18:27:32Z,-15.46,GBP,-15.46,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009Ujbhi4TfV2lXO4YYz,2018-03,2018-03-19T18:40:01Z,-15.6,GBP,-15.6,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009Wo49jswBXxjv8fTJR,2018-05,2018-05-20T18:01:52Z,-16.05,GBP,-16.05,GBP,groceries,🍏,SAINSBURYS SACAT4820   LONDON SE1    GBR,13-14 Bermondsey Sq.,,,groceries,0
+tx_00009XVSsX5DNjeOvVG56f,2018-06,2018-06-10T16:31:28Z,-16.1,GBP,-16.1,GBP,groceries,🍏,SAINSBURYS SACAT4820   LONDON SE1    GBR,13-14 Bermondsey Sq.,,,groceries,0
+tx_00009ZHhNkRsVglwOPDyj4,2018-08,2018-08-02T20:52:14Z,-16.22,GBP,-16.22,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009WIkO3kP73wkx3siRd,2018-05,2018-05-05T15:24:19Z,-16.28,GBP,-16.28,GBP,groceries,🍏,TESCO-STORES 6485      LONDON  METRO GBR,125 Tooley St,,,groceries,0
+tx_00009VlolxN8SIdcil09lB,2018-04,2018-04-19T18:07:58Z,-16.34,GBP,-16.34,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009YD5GaM31NCFBKJyXB,2018-07,2018-07-01T17:34:12Z,-16.55,GBP,-16.55,GBP,groceries,🍏,SAINSBURYS SACAT4820   LONDON SE1    GBR,13-14 Bermondsey Sq.,,,groceries,0
+tx_00009ShBgVXHi6L5e2MW9Z,2018-01,2018-01-17T18:54:51Z,-16.85,GBP,-16.85,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009akZPymv36hl0FGMCH,2018-09,2018-09-15T17:01:43Z,-17.3,GBP,-17.3,GBP,groceries,🍏,SAINSBURYS SACAT4820   LONDON SE1    GBR,13-14 Bermondsey Sq.,,,groceries,0
+tx_00009bzBZMF3mRiUccHLnt,2018-10,2018-10-22T16:07:16Z,-17.38,GBP,-17.38,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009XjLES5gXqGucSPYgL,2018-06,2018-06-17T09:11:45Z,-17.4,GBP,-17.4,GBP,groceries,🍏,SAINSBURYS SACAT4820   LONDON SE1    GBR,13-14 Bermondsey Sq.,,,groceries,0
+tx_00009daVUQiOxGaURu09sf,2018-12,2018-12-09T14:06:54Z,-17.5,GBP,-17.5,GBP,groceries,🍏,TESCO STORES 4359      LONDON        GBR,Jamaica Road,,,groceries,0
+tx_00009ZY7yb8NoIRc9QpJ3J,2018-08,2018-08-10T19:05:36Z,-17.55,GBP,-17.55,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009VpuighHNDeyNf5NwH,2018-04,2018-04-21T17:33:28Z,-17.56,GBP,-17.56,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009WGMBhZ8yHgZaA5aFN,2018-05,2018-05-04T11:43:44Z,-18.25,GBP,-18.25,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009a4RB99HHqhDsdJn1d,2018-08,2018-08-26T09:11:32Z,-18.35,GBP,-18.35,GBP,groceries,🍏,SAINSBURYS SACAT4820   LONDON SE1    GBR,13-14 Bermondsey Sq.,,,groceries,0
+tx_00009b0qBZaQl2ysXPUqLR,2018-09,2018-09-23T13:24:59Z,-18.41,GBP,-18.41,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009WP64040SmhFn8TC4X,2018-05,2018-05-08T16:55:28Z,-18.46,GBP,-18.46,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009WCmgqZRMWB5xO0y4v,2018-05,2018-05-02T18:21:51Z,-18.61,GBP,-18.61,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009c9dg0vEBbfvGyxz9t,2018-10,2018-10-27T17:09:20Z,-19,GBP,-19,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009ZLBS0ZU5XXVDaiYnR,2018-08,2018-08-04T13:13:17Z,-19.04,GBP,-19.04,GBP,groceries,🍻,LAITHWAITES WINE       LONDON        GBR,Arch 219-221,,,groceries,0
+tx_00009WlK3B9NQntqFON5AP,2018-05,2018-05-19T10:15:50Z,-19.37,GBP,-19.37,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009ZbVzm8TNCQGLAiF4j,2018-08,2018-08-12T10:18:52Z,-19.55,GBP,-19.55,GBP,groceries,🍏,SAINSBURYS SACAT4820   LONDON SE1    GBR,13-14 Bermondsey Sq.,,,groceries,0
+tx_00009aDTXyLBaKFhHRZhEv,2018-08,2018-08-30T17:50:28Z,-20.1,GBP,-20.1,GBP,groceries,🍏,TESCO-STORES 6485      LONDON  METRO GBR,125 Tooley St,,,groceries,0
+tx_00009bJtsqreO2hCc480sj,2018-10,2018-10-02T18:05:56Z,-20.55,GBP,-20.55,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009aW1RAVOqvb2L6WTJp,2018-09,2018-09-08T16:35:00Z,-20.74,GBP,-20.74,GBP,groceries,🍏,TESCO-STORES 6485      LONDON  METRO GBR,125 Tooley St,,,groceries,0
+tx_00009WZBLnMir7a26JqSLh,2018-05,2018-05-13T13:41:49Z,-21.3,GBP,-21.3,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009XTTmeVUZwB1qrOD8D,2018-06,2018-06-09T17:32:12Z,-22.12,GBP,-22.12,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009UnmIgavthWumflxjN,2018-03,2018-03-21T18:57:36Z,-22.7,GBP,-22.7,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009Zo2KQbm8RN2gMboTx,2018-08,2018-08-18T11:17:42Z,-23.48,GBP,-23.48,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009TFgYk1XfCVn0oF9Qf,2018-02,2018-02-03T10:20:59Z,-24.25,GBP,-24.25,GBP,groceries,🍏,SAINSBURYS LOC4820     BERMONDSEY    GBR,13-14 Bermondsey Sq.,,,groceries,0
+tx_00009cQ1Uvb79GJq1Pwfc9,2018-11,2018-11-04T14:51:37Z,-24.27,GBP,-24.27,GBP,groceries,🍏,TESCO STORES 4359      LONDON        GBR,Jamaica Road,,,groceries,0
+tx_00009TdcVw3IkVtqhE6m5x,2018-02,2018-02-14T23:28:44Z,-24.42,GBP,-33.71,USD,groceries,🍎,WHOLEFDS HDP#104       CHICAGO       IL,5118 South Lake Park Avenue,,,groceries,0
+tx_00009dJnRchcQPnXBgz0an,2018-12,2018-12-01T12:37:59Z,-25.21,GBP,-25.21,GBP,groceries,🍏,TESCO STORES 4359      LONDON        GBR,Jamaica Road,,,groceries,0
+tx_00009TZS560JrdMLVAWdl3,2018-02,2018-02-12T23:12:59Z,-26.57,GBP,-36.67,USD,groceries,🍎,WHOLEFDS HDP#104       CHICAGO       IL,5118 South Lake Park Avenue,,,groceries,0
+tx_00009cWVUiTc5vrv6Prkp7,2018-11,2018-11-07T17:56:00Z,-27.13,GBP,-27.13,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009cODFOl5lsjJU7WW6T,2018-11,2018-11-03T17:53:51Z,-27.98,GBP,-27.98,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009crJCHCldJTTybjOMb,2018-11,2018-11-17T18:47:09Z,-29.93,GBP,-29.93,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009ZNKIFhqFajhAKyAtd,2018-08,2018-08-05T14:01:47Z,-32.06,GBP,-32.06,GBP,groceries,🍏,TESCO-STORES 6485      LONDON  METRO GBR,125 Tooley St,,,groceries,0
+tx_00009ayo9Ik3pJAvUWs0Ti,2018-09,2018-09-22T13:52:45Z,-32.2,GBP,-32.2,GBP,groceries,🍏,TESCO-STORES 6485      LONDON  METRO GBR,125 Tooley St,,,groceries,0
+tx_00009dOQr007c3YYuRKR8L,2018-12,2018-12-03T18:18:25Z,-33.83,GBP,-33.83,GBP,groceries,🍏,TESCO-STORES 6485      LONDON METRO  GBR,125 Tooley St,,,groceries,0
+tx_00009X2zHjJGcgMZeMDu1h,2018-05,2018-05-27T22:47:58Z,-37.51,GBP,-49.92,USD,groceries,🍎,WHOLEFDS HDP#104       CHICAGO       IL,5118 South Lake Park Avenue,,,groceries,0
+tx_00009UN2HNGSdKovbWGYM5,2018-03,2018-03-08T21:19:26Z,-49.97,GBP,-49.97,GBP,groceries,🍷,Nakedwines             Norwich       GBR,,,,groceries,0
+tx_00009br0z6xCaejc9AKnQH,2018-10,2018-10-18T17:30:59Z,-72.84,GBP,-94.6,CHF,groceries,🍏,COOP-2848 ZH SIHLCITY  ZURICH        CHE,1 Kalanderplatz,,,groceries,0
+tx_00009UQexmFyU01jo7sZ4z,2018-03,2018-03-10T15:17:01Z,197.05,GBP,197.05,GBP,holidays,,JM + IR HORR (Faster Payments),,JAMES TAHOE,,holidays,0
+tx_00009Xx4YAG9ZWg26JYo9h,2018-06,2018-06-24T00:10:47Z,74.73,GBP,100,USD,holidays,,LOEWS HOTEL CHICAGO    CHICAGO       IL,,,,holidays,0
+tx_00009XVS2vYf8i2LDDOJnd,2018-06,2018-06-10T16:22:09Z,-3.38,GBP,-3.38,GBP,holidays,🏨,THE BERMONDSEY SQUARE  LONDON        GBR,Bermondsey Square,,,holidays,0
+tx_00009UnlrzkyXtBFlnJrUH,2018-03,2018-03-21T18:52:46Z,-4.84,GBP,-5.5,EUR,holidays,✈️,AIRSHOP SOLUTIONS     \C.  VIEJO DE LLUCMAJOR    0106\PALMA DE MALL\07007     ESPESP,C.  VIEJO DE LLUCMAJOR    0106,"Delayed from Monday, 19 Mar",,holidays,0
+tx_00009VBDO9tBZizeBuXN4L,2018-04,2018-04-02T02:19:29Z,-5,GBP,-7,USD,holidays,✈️,NORWEGIAN LONG HAUL\C/O SHARED SERVICE CENTRE\CAPABILITY GR\LU1 3LU      GBR,Shared Service Centre Duty Free,"Delayed from Saturday, 31 Mar",,holidays,0
+tx_00009VbqjC8bMG6bZJjBPV,2018-04,2018-04-14T22:42:46Z,-29.45,GBP,-29.45,GBP,holidays,,HOTELS.COM147196679543 UK.HOTELS.COM ESP,Calle Villalba Hervas 9,,,holidays,0
+tx_00009WynSG85TlEf4dCh29,2018-05,2018-05-25T22:16:33Z,-74.73,GBP,-100,USD,holidays,,LOEWS HOTEL CHICAGO    CHICAGO       IL,,,,holidays,0
+tx_00009Vm7idOOBKaI1Vgcgz,2018-04,2018-04-19T21:40:16Z,-340.96,GBP,-340.96,GBP,holidays,✈️,Opodo ID 4026045141    opodo.co.uk   GBR,,,,holidays,0
+tx_00009V7toAab0tXukSkDVx,2018-03,2018-03-31T11:55:57Z,-414.98,GBP,-414.98,GBP,holidays,✈️,Opodo ID 3996700176    opodo.co.uk   GBR,,,,holidays,0
+tx_00009YXCkPm3VcFID9Izi5,2018-07,2018-07-11T10:32:15Z,-3.99,GBP,-3.99,GBP,personal_care,💊,BOOTS 1137             GATWICK AIRPO GBR,Airport Way,,,personal_care,0
+tx_00009b0onCRP3rTfNsgyjx,2018-09,2018-09-23T13:09:23Z,-3.99,GBP,-3.99,GBP,personal_care,💊,"BOOTS,0839             LONDON        GBR",Counter Street,,,personal_care,0
+tx_00009WKT4e6stkUkvQsa0X,2018-05,2018-05-06T11:19:44Z,-11.99,GBP,-11.99,GBP,personal_care,📰,WH SMITH               RICHMOND SURR GBR,Richmond Station Shop,,,personal_care,0
+tx_00009UY7PJawnV5B7HvPOb,2018-03,2018-03-14T05:38:43Z,36.28,GBP,36.28,GBP,shopping,💪,MYPROTEIN.COM\MERIDIAN HOUSE\NORTHWICH\CW9 7RA   GBRGBR,MERIDIAN HOUSE,"Delayed from Tuesday, 13 Mar",,shopping,0
+tx_00009ZTKH7P2nm4M4ZOcCH,2018-08,2018-08-08T11:29:51Z,7,GBP,7,GBP,shopping,,Andrea Jorge,,,,shopping,0
+tx_00009bIMYb0w7HqHqWEdnt,2018-10,2018-10-02T00:17:48Z,1,GBP,1,GBP,shopping,🚚,AMAZON UK RETAIL       WWW.AMAZON.CO LUX,,,,shopping,0
+tx_00009cX2moPu2qlGdoQz0T,2018-11,2018-11-08T00:09:02Z,1,GBP,1,GBP,shopping,🚚,AMAZON EU              Amazon.co.uk  LUX,,,,shopping,0
+tx_00009dEZdtqm7s8OhFQTNx,2018-11,2018-11-29T00:09:47Z,1,GBP,1,GBP,shopping,🚚,AMAZON EU              Amazon.co.uk  LUX,,,,shopping,0
+tx_00009T3sQHIrQhrYNOF27V,2018-01,2018-01-28T17:37:23Z,0,GBP,0,GBP,shopping,💪,MYPROTEIN.COM          NORTHWICH     GBR,,Active card check,,shopping,0
+tx_00009Zbgs8WXLkVVfUppeT,2018-08,2018-08-12T12:20:44Z,0,GBP,0,USD,shopping,💸,PAYPAL                 35314369001   GBR,,Active card check,,shopping,0
+tx_00009aJx20MShSgvqzbVo1,2018-09,2018-09-02T20:49:06Z,-1,GBP,-1,GBP,shopping,🚚,AMAZON UK RETAIL       WWW.AMAZON.CO LUX,,,,shopping,0
+tx_00009cI37WBw5RfFPXJBTt,2018-10,2018-10-31T18:32:06Z,-1,GBP,-1,GBP,shopping,🚚,AMAZON EU              Amazon.co.uk  LUX,,,,shopping,0
+tx_00009d01nTFNm1qloBeJiT,2018-11,2018-11-21T23:44:35Z,-1,GBP,-1,GBP,shopping,🚚,AMAZON EU              Amazon.co.uk  LUX,,,,shopping,0
+tx_00009UgzjwVglrDsSR4xfN,2018-03,2018-03-18T12:25:12Z,-2.65,GBP,-3,EUR,shopping,,GVAM GUIAS INTERACTIVA MADRID        ESP,C.  ESQUILACHE            0002,,,shopping,0
+tx_00009ZCoFsiPcR6GjjzibK,2018-07,2018-07-31T12:15:41Z,-2.85,GBP,-2.85,GBP,shopping,🛍,SCRIBBLER              LONDON        GBR,15 Shorts Gardens,,,shopping,0
+tx_00009dSR1hCGdxZEuvsHr7,2018-12,2018-12-05T16:39:12Z,-3.5,GBP,-3.5,GBP,shopping,👕,PRIMARK 674            LONDON  W1D   GBR,14-28 Oxford St,,,shopping,0
+tx_00009Ww2Vsw6ZJi0hXwLaL,2018-05,2018-05-24T14:21:09Z,-3.99,GBP,-3.99,GBP,shopping,💊,BOOTS 1137             GATWICK AIRPO GBR,Airport Way,,,shopping,0
+tx_00009aJM5YZ8HyukZYKFXd,2018-09,2018-09-02T13:55:10Z,-6,GBP,-6,GBP,shopping,🍰,IZ *COMPTOIR GOURMAND  London        GBR,Maltby Street,,,shopping,0
+tx_00009aOW08SVtdEFPu7OqX,2018-09,2018-09-05T01:39:47Z,-6.99,GBP,-6.99,GBP,shopping,🚚,AMZN Mktp UK           800-279-6620  LUX,,,,shopping,0
+tx_00009aJzKUb7DjQAkcOx73,2018-09,2018-09-02T21:14:51Z,-7.47,GBP,-7.47,GBP,shopping,🚚,AMZN Mktp UK           800-279-6620  LUX,,,,shopping,0
+tx_00009cO2teowNBpV4GhdCL,2018-11,2018-11-03T15:57:52Z,-7.7,GBP,-7.7,GBP,shopping,🍰,IZ *COMPTOIR GOURMAND  London        GBR,Maltby Street,,,shopping,0
+tx_00009aJtaHAEKpXBF9mGcT,2018-09,2018-09-02T20:10:29Z,-8.89,GBP,-8.89,GBP,shopping,,PAYPAL *NEW IMAGE      35314369001   GBR,"2 Whittaker Avenue, Whitt",,,shopping,0
+tx_00009bGxg0rjhuXe2RPb5F,2018-10,2018-10-01T08:04:18Z,-8.99,GBP,-8.99,GBP,shopping,🛍,SCRIBBLER              LONDON        GBR,15 Shorts Gardens,,,shopping,0
+tx_00009aJtZzVC09DvHzbQLx,2018-09,2018-09-02T20:10:26Z,-9.99,GBP,-9.99,GBP,shopping,,PAYPAL *DEPOT          35314369001   GBR,"2 Whittaker Avenue, Whitt",,,shopping,0
+tx_00009YQwuEoyK3D8KdYCYr,2018-07,2018-07-08T10:06:29Z,-10.95,GBP,-10.95,GBP,shopping,🎁,WWW.MFPA.CO.UK         INTERNET      GBR,9 Inverness Place,,,shopping,0
+tx_00009d7s1Or1STJxTYyT6v,2018-11,2018-11-25T18:32:44Z,-10.97,GBP,-10.97,GBP,shopping,🚚,AMZN Mktp UK           800-279-6620  LUX,,,,shopping,0
+tx_00009dAOYpje7c13FeQj9F,2018-11,2018-11-26T23:46:46Z,-10.98,GBP,-10.98,GBP,shopping,👗,LH Trading             Bath          GBR,,,,shopping,0
+tx_00009dkbIN7P2oRovJ4epN,2018-12,2018-12-14T10:59:04Z,-11,GBP,-11,GBP,shopping,👕,PRIMARK 674            LONDON  W1D   GBR,14-28 Oxford St,,,shopping,0
+tx_00009YCL8oYDlAiQ5dsSrR,2018-07,2018-07-01T08:57:22Z,-12.5,GBP,-12.5,GBP,shopping,🌻,IGLOO FLOWERS          LONDON        GBR,Unit 10 Shard Arcade,,,shopping,0
+tx_00009XyAXjs4TeV936CkrJ,2018-06,2018-06-24T12:52:39Z,-14.5,GBP,-14.5,GBP,shopping,🌻,IGLOO FLOWERS          LONDON        GBR,Unit 10 Shard Arcade,,,shopping,0
+tx_00009dnM0CUssaIc4eWWvp,2018-12,2018-12-15T18:51:50Z,-14.88,GBP,-14.88,GBP,shopping,🚚,AMAZON UK RETAIL       WWW.AMAZON.CO LUX,,,,shopping,0
+tx_00009VLSKbXWGpsk5XS8mn,2018-04,2018-04-07T00:54:02Z,-15.57,GBP,-21.77,USD,shopping,📰,HUDSONNEWS ST1007      JAMAICA       NY,"1 J F K Airport, Jamaica, New York, 11430, Usa",,,shopping,0
+tx_00009ceNIZIz7hDGEJL0FN,2018-11,2018-11-11T13:01:51Z,-19.85,GBP,-19.85,GBP,shopping,💡,MUJI                   LONDON        GBR,6-17 Tottenham Court Road,,,shopping,0
+tx_00009aiRAmeegrqJFZjO89,2018-09,2018-09-14T16:19:55Z,-20,GBP,-20,GBP,shopping,,Eleanor Newman (Faster Payments),,Robert,,shopping,0
+tx_00009aXfPdgJb1pyajjODJ,2018-09,2018-09-09T11:37:39Z,-21,GBP,-21,GBP,shopping,,CONSERVATORY ARCHIVES  LONDON        GBR,493-495 Hackney Road,,,shopping,0
+tx_00009dcBCiTaZUsJsHst7J,2018-12,2018-12-10T09:29:01Z,-25,GBP,-25,GBP,shopping,,F D Aubert (Faster Payments),,Inna spa,,shopping,0
+tx_00009dV8Mm0qcNiSOI45zd,2018-12,2018-12-06T23:54:14Z,-27.5,GBP,-27.5,GBP,shopping,,Lucy Godshall (Faster Payments),,Eleanor gift,,shopping,0
+tx_00009ck2WCjktaoj8be2dt,2018-11,2018-11-14T06:37:17Z,-28.04,GBP,-28.04,GBP,shopping,👕,Gap\6 St Andrews Street\London\EC4A 3AE  GBRGBR,6 St Andrews Street,,,shopping,0
+tx_00009d02ITRv4VjIaly8x7,2018-11,2018-11-21T23:50:11Z,-29.99,GBP,-29.99,GBP,shopping,🚚,AMZN Mktp UK           800-279-6620  LUX,,,,shopping,0
+tx_00009dHDsYu4fm2aYdR2uH,2018-11,2018-11-30T06:50:03Z,-29.99,GBP,-29.99,GBP,shopping,🚚,AMZN Mktp UK           800-279-6620  LUX,,,,shopping,0
+tx_00009c3DcM35vp67Mo97XF,2018-10,2018-10-24T14:49:04Z,-32.95,GBP,-32.95,GBP,shopping,🚚,AMAZON UK MARKETPLACE  WWW.AMAZON.CO LUX,,,,shopping,0
+tx_00009cI3bpOfFLGR4umYPh,2018-10,2018-10-31T18:37:35Z,-33.99,GBP,-33.99,GBP,shopping,🚚,AMAZON UK MARKETPLACE  WWW.AMAZON.CO LUX,,,,shopping,0
+tx_00009aNFNAUkbFIm5HZBQn,2018-09,2018-09-04T10:58:45Z,-35.02,GBP,-35.02,GBP,shopping,🚚,AMZN Mktp UK           800-279-6620  LUX,,,,shopping,0
+tx_00009TIt6uBgAERqVUbifB,2018-02,2018-02-04T23:25:45Z,-35.75,GBP,-35.75,GBP,shopping,👗,LH Trading             Bath          GBR,,,,shopping,0
+tx_00009ccsiVZCM0phKcOler,2018-11,2018-11-10T19:44:29Z,-36.51,GBP,-36.51,GBP,shopping,👕,Gap                    London        GBR,,,,shopping,0
+tx_00009ZCpuIwpbdh1dJZtg1,2018-07,2018-07-31T12:34:12Z,-39.2,GBP,-39.2,GBP,shopping,🍰,LOLAS CUPCAKES LIMITED LONDON        GBR,14-18 Neal Street,,,shopping,0
+tx_00009d95beiXRx4Vf5aI3l,2018-11,2018-11-26T08:39:40Z,-40.49,GBP,-40.49,GBP,shopping,🚚,AMZN Mktp UK           800-279-6620  LUX,,,,shopping,0
+tx_00009WymOEqAEJr10qOhjl,2018-05,2018-05-25T22:04:38Z,-41.43,GBP,-55.13,USD,shopping,👕,GAP US 569             CHICAGO       IL,555 North Michigan Avenue,,,shopping,0
+tx_00009T3sjPEGBadQWj7caP,2018-01,2018-01-28T17:40:50Z,-45.35,GBP,-45.35,GBP,shopping,💪,MYPROTEIN.COM          NORTHWICH     GBR,,,,shopping,0
+tx_00009ZLEi4dD3oRCJ2oQvR,2018-08,2018-08-04T13:49:48Z,-50,GBP,-50,GBP,shopping,🏨,MONDRIAN LONDON        LONDON        GBR,20 Upper Ground,,,shopping,0
+tx_00009d3GWzPL1u6TPsmjDd,2018-11,2018-11-23T13:13:49Z,-51.98,GBP,-51.98,GBP,shopping,💪,MYPROTEIN.COM          NORTHWICH     GBR,,,,shopping,0
+tx_00009a7BbF8echQFOEF3BZ,2018-08,2018-08-27T17:01:06Z,-66.8,GBP,-66.8,GBP,shopping,💪,MYPROTEIN.COM          NORTHWICH     GBR,,,,shopping,0
+tx_00009aOqeURrYceH0Lrnkn,2018-09,2018-09-05T05:31:11Z,-89.16,GBP,-89.16,GBP,shopping,🚚,AMZN Mktp UK           800-279-6620  LUX,,,,shopping,0
+tx_00009V734RfVz9ODm0x42D,2018-03,2018-03-31T02:05:01Z,44.38,GBP,62.39,USD,transport,🚕,UBER   *TRIP SBQ7E     SAN FRANCISCO CA,,,,transport,0
+tx_00009Zsfg35uugyRpuuNph,2018-08,2018-08-20T16:57:27Z,5.6,GBP,5.6,GBP,transport,🚅,TFL TRAVEL RE\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,VICTORIA STREET,"Travel charge for Sunday, 19 Aug",,transport,0
+tx_00009ZsfZrw5UIXVUWMcq1,2018-08,2018-08-20T16:56:20Z,0.8,GBP,0.8,GBP,transport,🚅,TFL TRAVEL RE\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,VICTORIA STREET,"Travel charge for Saturday, 18 Aug",,transport,0
+tx_00009TKfAFFDJxOrdmsYJl,2018-02,2018-02-05T19:58:54Z,0,GBP,0,GBP,transport,🚕,UberBV                 help.uber.com NLD,,Active card check,,transport,0
+tx_00009ZnqSLr4UcQ8nz7ryj,2018-08,2018-08-18T09:04:40Z,0,GBP,0,GBP,transport,🚅,TfL Unpaid Fares       TFL.gov.uk/CP GBR,United Kingdom,Active card check,,transport,0
+tx_00009Uelw0ReBDG6Sh7vF3,2018-03,2018-03-17T10:41:06Z,-1.41,GBP,-1.6,EUR,transport,🚅,"METRO DE MADRID, S A   MADRID        ESP","Calle De Cavanilles, 58",,,transport,0
+tx_00009SZQDIDU63SumYGNGb,2018-01,2018-01-14T00:59:57Z,-1.5,GBP,-1.5,GBP,transport,🚅,TfL Travel Charge      TFL.gov.uk/CP GBR,,"Travel charge for Saturday, 13 Jan",,transport,0
+tx_00009ZtPyNUYPXP7KnOrXV,2018-08,2018-08-21T01:36:11Z,-1.5,GBP,-1.5,GBP,transport,🚅,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,50 Victoria Street,"Travel charge for Sunday, 19 Aug",,transport,0
+tx_00009aXjSALTWWrIRzyE53,2018-09,2018-09-09T12:22:55Z,-1.5,GBP,-1.5,GBP,transport,🚅,TfL Travel Charge      TFL.gov.uk/CP GBR,,"Travel charge for Sunday, 9 Sep",,transport,0
+tx_00009bHwAxNwgzFdPA8GkT,2018-10,2018-10-01T19:22:12Z,-1.5,GBP,-1.5,GBP,transport,🚅,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,50 Victoria Street,"Travel charge for Sunday, 30 Sep",,transport,0
+tx_00009bUsSJ4dQylCQu8KHL,2018-10,2018-10-08T01:11:46Z,-1.5,GBP,-1.5,GBP,transport,🚅,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,50 Victoria Street,"Travel charge for Saturday, 6 Oct",,transport,0
+tx_00009SnbfuuTeEvWbYfB8j,2018-01,2018-01-20T21:14:20Z,-2.4,GBP,-2.4,GBP,transport,🚅,TFL.GOV.UK/CP\VICTORIA STREET\TFL TRAVEL CH\SW1H 0TL     GBR,United Kingdom,"Travel charge for Friday, 19 Jan",,transport,0
+tx_00009SrEOt3jkrK1d2kEBF,2018-01,2018-01-22T15:12:23Z,-2.4,GBP,-2.4,GBP,transport,🚅,TFL.GOV.UK/CP\VICTORIA STREET\TFL TRAVEL CH\SW1H 0TL     GBR,United Kingdom,"Travel charge for Friday, 19 Jan",,transport,0
+tx_00009Sv5sJ5Xw5WpndNszB,2018-01,2018-01-24T11:55:42Z,-2.4,GBP,-2.4,GBP,transport,🚅,TFL.GOV.UK/CP\VICTORIA STREET\TFL TRAVEL CH\SW1H 0TL     GBR,United Kingdom,"Travel charge for Tuesday, 23 Jan",,transport,0
+tx_00009T0XwOkWbEEuE1mBCT,2018-01,2018-01-27T03:03:45Z,-2.4,GBP,-2.4,GBP,transport,🚅,TfL Travel Charge      TFL.gov.uk/CP GBR,,"Travel charge for Friday, 26 Jan",,transport,0
+tx_00009UtAoI0gCvFRVSavjt,2018-03,2018-03-24T09:25:47Z,-2.4,GBP,-2.4,GBP,transport,🚅,TFL.GOV.UK/CP\VICTORIA STREET\TFL TRAVEL CH\SW1H 0TL     GBR,United Kingdom,"Travel charge for Friday, 23 Mar",,transport,0
+tx_00009UweKuLGhmYX1NCj8j,2018-03,2018-03-26T01:40:46Z,-2.4,GBP,-2.4,GBP,transport,🚅,TFL.GOV.UK/CP\VICTORIA STREET\TFL TRAVEL CH\SW1H 0TL     GBR,United Kingdom,"Travel charge for Saturday, 24 Mar",,transport,0
+tx_00009V1XliC6FcJ0aarbBh,2018-03,2018-03-28T10:20:43Z,-2.4,GBP,-2.4,GBP,transport,🚅,TFL.GOV.UK/CP\VICTORIA STREET\TFL TRAVEL CH\SW1H 0TL     GBR,United Kingdom,"Travel charge for Tuesday, 27 Mar",,transport,0
+tx_00009V5cqRsTcSnJprbQhd,2018-03,2018-03-30T09:36:27Z,-2.4,GBP,-2.4,GBP,transport,🚅,TFL.GOV.UK/CP\VICTORIA STREET\TFL TRAVEL CH\SW1H 0TL     GBR,United Kingdom,"Travel charge for Thursday, 29 Mar",,transport,0
+tx_00009XQ3AZPRtzXwwVvc25,2018-06,2018-06-08T01:49:51Z,-2.4,GBP,-2.4,GBP,transport,🚅,TfL Travel Charge      TFL.gov.uk/CP GBR,,"Travel charge for Thursday, 7 Jun",,transport,0
+tx_00009ajruBSO7CsaMsuVF3,2018-09,2018-09-15T08:53:30Z,-2.4,GBP,-2.4,GBP,transport,🚅,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,50 Victoria Street,"Travel charge for Friday, 14 Sep",,transport,0
+tx_00009dVYJ9sGYaYVnodU8H,2018-12,2018-12-07T04:44:55Z,-2.9,GBP,-2.9,GBP,transport,🚅,TfL Travel Charge      TFL.gov.uk/CP GBR,,"Travel charge for Thursday, 6 Dec",,transport,0
+tx_00009UFMhVQzKBheMD9zW5,2018-03,2018-03-05T04:30:34Z,-3,GBP,-3,GBP,transport,🚅,TFL.GOV.UK/CP\VICTORIA STREET\TFL TRAVEL CH\SW1H 0TL     GBR,United Kingdom,"Travel charge for Saturday, 3 Mar",,transport,0
+tx_00009UUMv02fkeEWUKGkU5,2018-03,2018-03-12T10:13:41Z,-3,GBP,-3,GBP,transport,🚅,TFL.GOV.UK/CP\VICTORIA STREET\TFL TRAVEL CH\SW1H 0TL     GBR,United Kingdom,"Travel charge for Sunday, 11 Mar",,transport,0
+tx_00009YELPQWej8m09NX52f,2018-07,2018-07-02T08:09:46Z,-3,GBP,-3,GBP,transport,🚅,TFL.GOV.UK/CP\VICTORIA STREET\TFL TRAVEL CH\SW1H 0TL     GBR,United Kingdom,"Travel charge for Saturday, 30 Jun",,transport,0
+tx_00009d6F2p6hFIMvywNjZh,2018-11,2018-11-24T23:41:17Z,-3,GBP,-3,GBP,transport,,Sebastian Kay (P2P Payment),,Just for the sake of using all this fintech. Thanks and see you soon 😊,,transport,0
+tx_00009dNwlw100W1R60eE6L,2018-12,2018-12-03T12:41:21Z,-3,GBP,-3,GBP,transport,🚅,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,50 Victoria Street,"Travel charge for Sunday, 2 Dec",,transport,0
+tx_00009TM7OlFI85gdcGtq7t,2018-02,2018-02-06T12:49:59Z,-3.1,GBP,-3.1,GBP,transport,🚅,TFL.GOV.UK/CP\VICTORIA STREET\TFL TRAVEL CH\SW1H 0TL     GBR,United Kingdom,"Travel charge for Monday, 5 Feb",,transport,0
+tx_00009XeatusqvPYY7rCmRd,2018-06,2018-06-15T02:13:46Z,-3.1,GBP,-3.1,GBP,transport,🚅,TfL Travel Charge      TFL.gov.uk/CP GBR,,"Travel charge for Thursday, 14 Jun",,transport,0
+tx_00009bRY5F3XclqDaU75hR,2018-10,2018-10-06T10:39:21Z,-3.1,GBP,-3.1,GBP,transport,🚅,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,50 Victoria Street,"Travel charge for Friday, 5 Oct",,transport,0
+tx_00009bpwhz4U3BglZ5PoDh,2018-10,2018-10-18T05:08:21Z,-3.1,GBP,-3.1,GBP,transport,🚅,TfL Travel Charge      TFL.gov.uk/CP GBR,,"Travel charge for Thursday, 18 Oct",,transport,0
+tx_00009byX9Q4kuKwwzIXvk1,2018-10,2018-10-22T08:34:23Z,-3.1,GBP,-3.1,GBP,transport,🚅,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,50 Victoria Street,"Travel charge for Sunday, 21 Oct",,transport,0
+tx_00009XIFbBMF4vDULsClWb,2018-06,2018-06-04T07:31:26Z,-3.34,GBP,-3.8,EUR,transport,🚅,SNCF             75 PA PARIS 10      FRA,,,,transport,0
+tx_00009Uem0ITd4ytfXs6GGH,2018-03,2018-03-17T10:41:52Z,-3.54,GBP,-4,EUR,transport,🚅,"METRO DE MADRID, S A   MADRID        ESP","Calle De Cavanilles, 58",,,transport,0
+tx_00009dYAFlCi0ccEzivNWD,2018-12,2018-12-08T10:59:31Z,-3.9,GBP,-3.9,GBP,transport,🚅,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,50 Victoria Street,"Travel charge for Friday, 7 Dec",,transport,0
+tx_00009UiyIk6v3KEaXosZk1,2018-03,2018-03-19T11:18:31Z,-4.23,GBP,-4.8,EUR,transport,🚅,"METRO DE MADRID, S A   MADRID        ESP","Calle De Cavanilles, 58",,,transport,0
+tx_00009VLNfpR5Iga4vncvxJ,2018-04,2018-04-07T00:01:50Z,-4.29,GBP,-6,USD,transport,🚅,METROCARD VALUE @ AIRT NEW YORK      NY,Ny,,,transport,0
+tx_00009VLNkzEkHvOKLnOwtN,2018-04,2018-04-07T00:02:46Z,-4.29,GBP,-6,USD,transport,🚅,METROCARD VALUE @ AIRT NEW YORK      NY,Ny,,,transport,0
+tx_00009aLqXVPN0XOOTpUTar,2018-09,2018-09-03T18:45:47Z,-4.3,GBP,-4.3,GBP,transport,🚅,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,50 Victoria Street,"Travel charge for Saturday, 1 Sep",,transport,0
+tx_00009Sioy3TerPS3GytaJF,2018-01,2018-01-18T13:49:43Z,-4.8,GBP,-4.8,GBP,transport,🚅,TFL.GOV.UK/CP\VICTORIA STREET\TFL TRAVEL CH\SW1H 0TL     GBR,United Kingdom,"Travel charge for Wednesday, 17 Jan",,transport,0
+tx_00009TDZ5E5YEPMimCraxF,2018-02,2018-02-02T09:47:47Z,-4.8,GBP,-4.8,GBP,transport,🚅,TFL.GOV.UK/CP\VICTORIA STREET\TFL TRAVEL CH\SW1H 0TL     GBR,United Kingdom,"Travel charge for Thursday, 1 Feb",,transport,0
+tx_00009U4qpT6SjeL5KXiH7R,2018-02,2018-02-28T02:46:20Z,-4.8,GBP,-4.8,GBP,transport,🚅,TfL Travel Charge      TFL.gov.uk/CP GBR,,"Travel charge for Tuesday, 27 Feb",,transport,0
+tx_00009U4tb1utJkeOknCDOD,2018-02,2018-02-28T03:17:20Z,-4.8,GBP,-4.8,GBP,transport,🚅,TFL.GOV.UK/CP\VICTORIA STREET\TFL TRAVEL CH\SW1H 0TL     GBR,United Kingdom,"Travel charge for Monday, 26 Feb",,transport,0
+tx_00009UBCsGBsZ3Fm5ik6Nd,2018-03,2018-03-03T04:21:37Z,-4.8,GBP,-4.8,GBP,transport,🚅,TFL.GOV.UK/CP\VICTORIA STREET\TFL TRAVEL CH\SW1H 0TL     GBR,United Kingdom,"Travel charge for Thursday, 1 Mar",,transport,0
+tx_00009UHI4PGUJjl2MVMELp,2018-03,2018-03-06T02:48:06Z,-4.8,GBP,-4.8,GBP,transport,🚅,TfL Travel Charge      TFL.gov.uk/CP GBR,,"Travel charge for Monday, 5 Mar",,transport,0
+tx_00009UJwr5NbQKbBQcHe6L,2018-03,2018-03-07T09:34:31Z,-4.8,GBP,-4.8,GBP,transport,🚅,TFL.GOV.UK/CP\VICTORIA STREET\TFL TRAVEL CH\SW1H 0TL     GBR,United Kingdom,"Travel charge for Tuesday, 6 Mar",,transport,0
+tx_00009UM545cD2yOdo1psg5,2018-03,2018-03-08T10:15:56Z,-4.8,GBP,-4.8,GBP,transport,🚅,TFL.GOV.UK/CP\VICTORIA STREET\TFL TRAVEL CH\SW1H 0TL     GBR,United Kingdom,"Travel charge for Wednesday, 7 Mar",,transport,0
+tx_00009VbTfDOOS9nMfCJGe9,2018-04,2018-04-14T18:24:20Z,-4.8,GBP,-4.8,GBP,transport,🚅,TfL Travel Charge      TFL.gov.uk/CP GBR,,"Travel charge for Saturday, 14 Apr",,transport,0
+tx_00009VfRuvHK96WWpMpPPd,2018-04,2018-04-16T16:23:37Z,-4.8,GBP,-4.8,GBP,transport,🚅,TFL.GOV.UK/CP\VICTORIA STREET\TFL TRAVEL CH\SW1H 0TL     GBR,United Kingdom,"Travel charge for Sunday, 15 Apr",,transport,0
+tx_00009WOsExX8oNvTluQeif,2018-05,2018-05-08T14:20:34Z,-4.8,GBP,-4.8,GBP,transport,🚅,TFL.GOV.UK/CP\VICTORIA STREET\TFL TRAVEL CH\SW1H 0TL     GBR,United Kingdom,"Travel charge for Monday, 7 May",,transport,0
+tx_00009Xs2qvk2bOt1gmvXRx,2018-06,2018-06-21T13:58:13Z,-4.8,GBP,-4.8,GBP,transport,🚅,TFL.GOV.UK/CP\VICTORIA STREET\TFL TRAVEL CH\SW1H 0TL     GBR,United Kingdom,"Travel charge for Wednesday, 20 Jun",,transport,0
+tx_00009Xt2KWYgtJRYfIl9M1,2018-06,2018-06-22T01:27:04Z,-4.8,GBP,-4.8,GBP,transport,🚅,TfL Travel Charge      TFL.gov.uk/CP GBR,,"Travel charge for Thursday, 21 Jun",,transport,0
+tx_00009YRf57p3511p9zmGkj,2018-07,2018-07-08T18:21:28Z,-4.8,GBP,-4.8,GBP,transport,🚅,TfL Travel Charge      TFL.gov.uk/CP GBR,,"Travel charge for Sunday, 8 Jul",,transport,0
+tx_00009ZOcMgmTWQCNmCYnBZ,2018-08,2018-08-06T04:59:00Z,-4.8,GBP,-4.8,GBP,transport,🚅,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,50 Victoria Street,"Travel charge for Saturday, 4 Aug",,transport,0
+tx_00009ZoDHC5GmLYGnevS89,2018-08,2018-08-18T13:20:22Z,-4.8,GBP,-4.8,GBP,transport,🚅,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,50 Victoria Street,"Travel charge for Friday, 17 Aug",,transport,0
+tx_00009aiCDoVckngVku8qvZ,2018-09,2018-09-14T13:26:17Z,-4.8,GBP,-4.8,GBP,transport,🚅,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,50 Victoria Street,"Travel charge for Thursday, 13 Sep",,transport,0
+tx_00009bCvSvYv8Z9veXefmj,2018-09,2018-09-29T09:20:41Z,-4.8,GBP,-4.8,GBP,transport,🚅,TfL Travel Charge      TFL.gov.uk/CP GBR,,"Travel charge for Saturday, 29 Sep",,transport,0
+tx_00009cCdTECC6fMNs8IEzJ,2018-10,2018-10-29T03:51:09Z,-4.8,GBP,-4.8,GBP,transport,🚅,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,50 Victoria Street,"Travel charge for Saturday, 27 Oct",,transport,0
+tx_00009cVhDoz3eX4dcoifAn,2018-11,2018-11-07T08:32:42Z,-4.8,GBP,-4.8,GBP,transport,🚅,TfL Travel Charge      TFL.gov.uk/CP GBR,,"Travel charge for Wednesday, 7 Nov",,transport,0
+tx_00009cgDMb7PiEiIivUcNt,2018-11,2018-11-12T10:19:58Z,-4.8,GBP,-4.8,GBP,transport,🚅,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,50 Victoria Street,"Travel charge for Sunday, 11 Nov",,transport,0
+tx_00009d7KKSz4vlIr0gIY0f,2018-11,2018-11-25T12:15:13Z,-4.8,GBP,-4.8,GBP,transport,🚅,TfL Travel Charge      TFL.gov.uk/CP GBR,,"Travel charge for Sunday, 25 Nov",,transport,0
+tx_00009dNDalAzTBYaMCcPJp,2018-12,2018-12-03T04:15:06Z,-4.8,GBP,-4.8,GBP,transport,🚅,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,50 Victoria Street,"Travel charge for Saturday, 1 Dec",,transport,0
+tx_00009XJ8X99EqaWT4H725h,2018-06,2018-06-04T17:46:58Z,-5.01,GBP,-5.7,EUR,transport,🚅,RATP             75  P  PARIS        FRA,54 Quai de la Rapée,,,transport,0
+tx_00009UsRi8rIp464Y1Wncv,2018-03,2018-03-24T01:00:27Z,-5.3,GBP,-5.3,GBP,transport,🚅,TFL.GOV.UK/CP\VICTORIA STREET\TFL TRAVEL CH\SW1H 0TL     GBR,United Kingdom,"Travel charge for Thursday, 22 Mar",,transport,0
+tx_00009Zl69eGKqUe7ag2Kn3,2018-08,2018-08-17T01:16:26Z,-5.3,GBP,-5.3,GBP,transport,🚅,TfL Travel Charge      TFL.gov.uk/CP GBR,,"Travel charge for Thursday, 16 Aug",,transport,0
+tx_00009ZvSaFcygbUUAt62IT,2018-08,2018-08-22T01:14:52Z,-5.3,GBP,-5.3,GBP,transport,🚅,TfL Travel Charge      TFL.gov.uk/CP GBR,,"Travel charge for Tuesday, 21 Aug",,transport,0
+tx_00009UCWRPlR3SSWCnoHyr,2018-03,2018-03-03T19:35:34Z,-5.9,GBP,-5.9,GBP,transport,🚅,TFL.GOV.UK/CP\VICTORIA STREET\TFL TRAVEL CH\SW1H 0TL     GBR,United Kingdom,"Travel charge for Friday, 2 Mar",,transport,0
+tx_00009VkOFv9WNfNlroJOlN,2018-04,2018-04-19T01:36:09Z,-6.8,GBP,-6.8,GBP,transport,🚅,TfL Travel Charge      TFL.gov.uk/CP GBR,,"Travel charge for Wednesday, 18 Apr",,transport,0
+tx_00009WY6jQClvKl3MNPFyL,2018-05,2018-05-13T01:15:21Z,-6.8,GBP,-6.8,GBP,transport,🚅,TfL Travel Charge      TFL.gov.uk/CP GBR,,"Travel charge for Saturday, 12 May",,transport,0
+tx_00009Wov0HpOQWa92xkNQP,2018-05,2018-05-21T03:54:02Z,-6.8,GBP,-6.8,GBP,transport,🚅,TFL.GOV.UK/CP\VICTORIA STREET\TFL TRAVEL CH\SW1H 0TL     GBR,United Kingdom,"Travel charge for Saturday, 19 May",,transport,0
+tx_00009XpgczlIGvODB4ae5h,2018-06,2018-06-20T10:39:46Z,-6.8,GBP,-6.8,GBP,transport,🚅,TFL.GOV.UK/CP\VICTORIA STREET\TFL TRAVEL CH\SW1H 0TL     GBR,United Kingdom,"Travel charge for Tuesday, 19 Jun",,transport,0
+tx_00009Xw0ii8XsVWc14R50b,2018-06,2018-06-23T11:53:10Z,-6.8,GBP,-6.8,GBP,transport,🚅,TFL.GOV.UK/CP\VICTORIA STREET\TFL TRAVEL CH\SW1H 0TL     GBR,United Kingdom,"Travel charge for Friday, 22 Jun",,transport,0
+tx_00009ZvJPMXRkiegpqF5Kj,2018-08,2018-08-21T23:32:03Z,-6.8,GBP,-6.8,GBP,transport,🚅,TFL TRAVEL CH\VICTORIA STREET\TFL.GOV.UK/CP\SW1H 0TL     GBR,50 Victoria Street,"Travel charge for Monday, 20 Aug",,transport,0
+tx_00009TsoMzqrMqNIcxHRHF,2018-02,2018-02-22T07:22:14Z,-7.5,GBP,-7.5,GBP,transport,🚅,TfL Travel Charge      TFL.gov.uk/CP GBR,,"Travel charge for Thursday, 22 Feb",,transport,0
+tx_00009UjTob8B4UQ2PFZofJ,2018-03,2018-03-19T17:11:37Z,-7.65,GBP,-7.65,GBP,transport,🚆,NEW SOUTHERN RAILW     HORLEY 9132   GBR,United Kingdom,,,transport,0
+tx_00009VMIn9xz3qhoaOljBR,2018-04,2018-04-07T10:41:51Z,-7.65,GBP,-7.65,GBP,transport,🚆,NEW SOUTHERN RAILW     HORLEY 9132   GBR,United Kingdom,,,transport,0
+tx_00009Wvpw4kjxSw0QIns3N,2018-05,2018-05-24T12:00:13Z,-7.65,GBP,-7.65,GBP,transport,🚅,LONDON & SOUTH EAS     LONDON SE1    GBR,Tooley Street,,,transport,0
+tx_00009XGWX34vEFEeQ6nZ7h,2018-06,2018-06-03T11:31:45Z,-7.65,GBP,-7.65,GBP,transport,🚆,NEW SOUTHERN RAILW     HORLEY 9132   GBR,United Kingdom,,,transport,0
+tx_00009YX1CsOPV4z0P9Dbaj,2018-07,2018-07-11T08:22:56Z,-7.65,GBP,-7.65,GBP,transport,🚅,LONDON & SOUTH EAS     LONDON SE1    GBR,Tooley Street,,,transport,0
+tx_00009ZeCzkVA8JTuDLG5Tt,2018-08,2018-08-13T17:30:06Z,-8,GBP,-8,GBP,transport,🚅,TfL Travel Charge      TFL.gov.uk/CP GBR,,"Travel charge for Monday, 13 Aug",,transport,0
+tx_00009V5wItENPeTQMTEjdx,2018-03,2018-03-30T13:14:29Z,-8.3,GBP,-8.3,GBP,transport,🚅,TfL Travel Charge      TFL.gov.uk/CP GBR,,"Travel charge for Friday, 30 Mar",,transport,0
+tx_00009Z8W5tPfaubKd2wa6D,2018-07,2018-07-29T10:33:21Z,-8.3,GBP,-8.3,GBP,transport,🚅,TfL Travel Charge      TFL.gov.uk/CP GBR,,"Travel charge for Sunday, 29 Jul",,transport,0
+tx_00009WKNWaMvnmHfoPv1Zx,2018-05,2018-05-06T10:17:33Z,-9,GBP,-9,GBP,transport,🚅,TfL Travel Charge      TFL.gov.uk/CP GBR,,"Travel charge for Sunday, 6 May",,transport,0
+tx_00009ZdINNcLAmnSv4GqXJ,2018-08,2018-08-13T06:55:41Z,-10.4,GBP,-10.4,GBP,transport,🚅,TfL Travel Charge      TFL.gov.uk/CP GBR,,"Travel charge for Monday, 13 Aug",,transport,0
+tx_00009bqO1DgucEabbcyE2j,2018-10,2018-10-18T10:14:22Z,-10.47,GBP,-13.6,CHF,transport,🚅,Schweiz. Bundesbahn    Bern 65       CHE,,,,transport,0
+tx_00009UarqRgvmrueBdbh1l,2018-03,2018-03-15T13:28:28Z,-10.74,GBP,-12.1,EUR,transport,🚅,"METRO DE MADRID, S A   MADRID        ESP","Calle De Cavanilles, 58",,,transport,0
+tx_00009bLAdyiUnoVB0AIeP3,2018-10,2018-10-03T08:48:27Z,-11.7,GBP,-11.7,GBP,transport,🚅,LONDON & SOUTH EAS     LONDON SE1    GBR,Tooley Street,,,transport,0
+tx_00009UcGfwT9hwqGbRlxlR,2018-03,2018-03-16T05:41:25Z,-14.7,GBP,-14.7,GBP,transport,🚅,TfL Travel Charge      TFL.gov.uk/CP GBR,,"Travel charge for Thursday, 15 Mar",,transport,0
+tx_00009Zuq5zWSCify93FXgv,2018-08,2018-08-21T18:03:36Z,-29,GBP,-29,GBP,transport,🚲,HACKNEY CYCLES         LONDON        GBR,507 Hackney Road,,,transport,0
+tx_00009TY64TjVlMBOel0K5B,2018-02,2018-02-12T07:31:39Z,-29.45,GBP,-40.64,USD,transport,🚕,UBER   *TRIP BGTQW     SAN FRANCISCO CA,,,,transport,0
+tx_00009V84rZmysQbI9GOQxl,2018-03,2018-03-31T13:59:49Z,-40.42,GBP,-40.42,GBP,transport,🚕,UBER   TRIP SBQ7E     \111 N CANAL              \8005928996   \94105     CA USA,,"Delayed from Friday, 30 Mar",,transport,0
+tx_00009V6xFaHrgOP8rjC0yf,2018-03,2018-03-31T00:59:48Z,-48.48,GBP,-68.15,USD,transport,🚕,UBER   *TRIP SBQ7E     SAN FRANCISCO CA,,,,transport,0
+tx_00009d2DzOJLXTgoMV76ED,2018-11,2018-11-23T01:10:37Z,4401.17,GBP,4401.17,GBP,,,PRD  8- 561109,,PRD  8- 561109,salary,salary,0
+tx_00009ZzUyCI3iuUR3vYCnJ,2018-08,2018-08-24T00:00:27Z,3573.89,GBP,3573.89,GBP,,,PRD  5- 561109,,PRD  5- 561109,salary,salary,0
+tx_00009SwDt4vh3cSsEoDBUP,2018-01,2018-01-25T01:00:12Z,3553.49,GBP,3553.49,GBP,,,PRD 10- 561109,,PRD 10- 561109,salary,salary,0
+tx_00009b3pPsUXkWMJC6HYxN,2018-09,2018-09-25T00:00:30Z,2783.49,GBP,2783.49,GBP,,,PRD  6- 561109,,PRD  6- 561109,salary,salary,0
+tx_00009c40pyqVtM0fj9itxB,2018-10,2018-10-25T00:00:34Z,2783.29,GBP,2783.29,GBP,,,PRD  7- 561109,,PRD  7- 561109,salary,salary,0
+tx_00009WwsKoEotJQYYrjYHp,2018-05,2018-05-25T00:00:34Z,2654.98,GBP,2654.98,GBP,,,PRD  2- 561109,,PRD  2- 561109,salary,salary,0
+tx_00009ZSVwlpSJBkW67kGdF,2018-08,2018-08-08T02:05:55Z,2622.94,GBP,2622.94,GBP,,,FCL POOLED (Faster Payments),,FUNDING CIRCLE RTN,from_savings,from_savings,0
+tx_00009TuKmXJDVCB1KAj4lN,2018-02,2018-02-23T01:00:07Z,2599.49,GBP,2599.49,GBP,,,PRD 11- 561109,,PRD 11- 561109,salary,salary,0
+tx_00009YzJWxr28sjMIDPitt,2018-07,2018-07-25T00:00:05Z,2585.69,GBP,2585.69,GBP,,,PRD  4- 561109,,PRD  4- 561109,salary,salary,0
+tx_00009UqNFRWfYEjlud16ob,2018-03,2018-03-23T01:01:01Z,2531.49,GBP,2531.49,GBP,,,PRD 12- 561109,,PRD 12- 561109,salary,salary,0
+tx_00009cJndRXfhNwOisfBsf,2018-11,2018-11-01T14:48:01Z,2473.67,GBP,2473.67,GBP,,,Transfer from pot Savings,,,salary,salary,0
+tx_00009VwgldskG1KvNXgXDt,2018-04,2018-04-25T00:00:06Z,2315.18,GBP,2315.18,GBP,,,PRD  1- 561109,,PRD  1- 561109,salary,salary,0
+tx_00009XzY1nQyHrZ3nKO7wv,2018-06,2018-06-25T04:49:11Z,2314.98,GBP,2314.98,GBP,,,PRD  3- 561109,,PRD  3- 561109,salary,salary,0
+tx_00009a7QFUMqouezLozR7B,2018-08,2018-08-27T19:45:14Z,2000,GBP,2000,GBP,,,Transfer from pot Savings,,,from_savings,from_savings,0
+tx_00009UiiWLu6Fc7qBnhYAr,2018-03,2018-03-19T08:21:41Z,1500,GBP,1500,GBP,,,Transfer from pot Savings,,,from_savings,from_savings,0
+tx_00009WoMAHjG9X5j2sPN6P,2018-05,2018-05-20T21:23:40Z,1000,GBP,1000,GBP,,,Transfer from pot Savings,,,from_savings,from_savings,0
+tx_00009ZO0IrvCMXZjlPC3aj,2018-08,2018-08-05T21:52:31Z,1000,GBP,1000,GBP,,,Transfer from pot Savings,,,from_savings,from_savings,0
+tx_00009dO9YgS1rUQ3K0apw9,2018-12,2018-12-03T00:00:00Z,1000,GBP,1000,GBP,,,Transfer from pot Savings,,,from_savings,from_savings,0
+tx_00009UMgJ5fap4pigqLWF7,2018-03,2018-03-08T17:13:14Z,800,GBP,800,GBP,,,Transfer from pot Savings,,,from_savings,from_savings,0
+tx_00009VCo2a5TNgiYNHOAOP,2018-04,2018-04-02T20:44:53Z,683.33,GBP,683.33,GBP,,,Transfer from pot Savings,,,from_savings,from_savings,0
+tx_00009W4Zrts4ZthAI75S2D,2018-04,2018-04-28T19:20:29Z,680,GBP,680,GBP,,,Transfer from pot Savings,,,from_savings,from_savings,0
+tx_00009V5u8FpcqLfgU0Qoqn,2018-03,2018-03-30T12:50:09Z,500,GBP,500,GBP,,,Transfer from pot Savings,,,from_savings,from_savings,0
+tx_00009V7tsiRp4Q28oJDLo9,2018-03,2018-03-31T11:56:46Z,415,GBP,415,GBP,,,Transfer from pot Travel,,,from_savings,from_savings,0
+tx_00009SmqAsYVeiNqTq5Om9,2018-01,2018-01-20T12:22:06Z,250,GBP,250,GBP,,,Top up,,,top_up,top_up,0
+tx_00009Ujs7Juhht8jTce8fp,2018-03,2018-03-19T21:43:56Z,177.32,GBP,177.32,GBP,,,LYNCH OM (Faster Payments),,OLIVIA L - BILLS,splitwise,splitwise,0
+tx_00009XsukDX3SEBOTfM4sT,2018-06,2018-06-22T00:00:38Z,163.2,GBP,163.2,GBP,,,UKIX00411062,,UKIX00411062,dental,general,0
+tx_00009bd4CEh2hrdTKLLP2v,2018-10,2018-10-12T00:01:00Z,125.8,GBP,125.8,GBP,,,UKIX00411062,,UKIX00411062,dental,general,0
+tx_00009UXiXHjR6vCkrrFT3R,2018-03,2018-03-14T01:00:02Z,125.65,GBP,125.65,GBP,,,UKIX00411062,,UKIX00411062,dental,general,0
+tx_00009SMOMVxtciA5FLVtQX,2018-01,2018-01-07T18:07:58Z,100.34,GBP,100.34,GBP,,,Prepaid to current transfer,,Prepaid to current transfer,top_up,top_up,0
+tx_00009dMCFXlzoSjyeYQqp7,2018-12,2018-12-02T16:25:21Z,100,GBP,100,GBP,,,Transfer from pot Peer Bonus Fund,,,from_savings,from_savings,0
+tx_00009cJniCa0kunAfdZhCr,2018-11,2018-11-01T14:48:53Z,85,GBP,85,GBP,,,Transfer from pot Travel,,,from_savings,from_savings,0
+tx_00009ZvLuFDdDTyX8UM2y1,2018-08,2018-08-22T00:00:03Z,45.14,GBP,45.14,GBP,,,208802592,,208802592,medical,medical,0
+tx_00009aNdTYPJ0OvrXEAKZ7,2018-09,2018-09-04T15:28:50Z,34.24,GBP,34.24,GBP,,,Florian Aubert,,,gifts,gifts,0
+tx_00009d7qjSStC9Myc9loaf,2018-11,2018-11-25T18:18:17Z,30,GBP,30,GBP,,,Transfer from pot Peer Bonus Fund,,Smart lights,from_savings,from_savings,0
+tx_00009d7qmT0JeAW8DJz7wn,2018-11,2018-11-25T18:18:50Z,25,GBP,25,GBP,,,Transfer from pot Peer Bonus Fund,,Smart light and mug,from_savings,from_savings,0
+tx_00009UH8Qh59krTiRz2ukT,2018-03,2018-03-06T01:00:05Z,21.17,GBP,21.17,GBP,,,98982886,,98982886,repayment,repayment,0
+tx_00009cf4z8Z0ifYg9lSNDF,2018-11,2018-11-11T21:11:22Z,17,GBP,17,GBP,,,NARDI (Faster Payments),,MOVIEEE,repayment,repayment,0
+tx_00009TbgA4lnfRHMrapnTl,2018-02,2018-02-14T01:00:10Z,9.6,GBP,9.6,GBP,,,98982886,,98982886,repayment,repayment,0
+tx_00009Vp0vGfTrgaU62fVnF,2018-04,2018-04-21T07:08:15Z,8,GBP,8,GBP,,,Bethany Jane Robertson (P2P Payment),,🍕,repayment,repayment,0
+tx_00009ZU63x50fRiTezLP4z,2018-08,2018-08-08T20:25:19Z,7,GBP,7,GBP,,,SINHA S (Faster Payments),,INNAS- CARD GIFT,repayment,repayment,0
+tx_00009ZXeh8NQZwyXuHh5KT,2018-08,2018-08-10T13:37:30Z,7,GBP,7,GBP,,,GOOGLE PAYMENT LTD (Faster Payments),,8144802192,repayment,repayment,0
+tx_00009ZXeh8xEQp0dA2aJXt,2018-08,2018-08-10T13:37:30Z,7,GBP,7,GBP,,,GOOGLE PAYMENT LTD (Faster Payments),,7891319691,repayment,repayment,0
+tx_00009ZqinY8dnnYoEFgtFZ,2018-08,2018-08-19T18:23:00Z,7,GBP,7,GBP,,,Jules Sauvinet,,Inna's present,repayment,repayment,0
+tx_00009SOFev2KdUzKwhD1Yv,2018-01,2018-01-08T15:39:52Z,5,GBP,5,GBP,,,Transfer from pot Dentist,,,repayment,repayment,0
+tx_00009ViBALU1so9Pw1D5eL,2018-04,2018-04-18T00:00:03Z,4.8,GBP,4.8,GBP,,,98982886,,98982886,from_savings,from_savings,0
+tx_00009a1J3BsZru7kvPK2wT,2018-08,2018-08-24T20:56:19Z,3,GBP,3,GBP,,,Ian Billett (P2P Payment),,Left-Left-Left,repayment,repayment,0
+tx_00009SNycS2vkhvtWg2ux7,2018-01,2018-01-08T12:28:56Z,-3,GBP,-3,GBP,,,Monzo (Faster Payments),,9SNycFJT5tsc61lkjB,repayment,repayment,0
+tx_00009SOA6As1H9hERHJmoD,2018-01,2018-01-08T14:37:33Z,-5,GBP,-5,GBP,,,Transfer to pot Dentist,,,repayment,repayment,0
+tx_00009TVsNlV097n5eRVlWD,2018-02,2018-02-11T05:48:50Z,-5,GBP,-5,GBP,,, (Faster Payments),,,repayment,repayment,0
+tx_00009UE1sbNJHkRXluvgmX,2018-03,2018-03-04T13:02:33Z,-5,GBP,-5,GBP,,,Transfer to pot Peer Bonus Fund,,,to_saving,to_saving,0
+tx_00009UzPQZ6Zf3ALLzmlM1,2018-03,2018-03-27T09:37:50Z,-12,GBP,-12,GBP,,,F D Aubert (Faster Payments),,Robert Sturrock,gifts,gifts,0
+tx_00009UT5M4ECItUIxLSOw5,2018-03,2018-03-11T19:22:10Z,-37,GBP,-37,GBP,,,Thomas Mccrickard (Faster Payments),,Rob,repayment,repayment,0
+tx_00009V2oJADEtQy0w2oza5,2018-03,2018-03-29T01:00:46Z,-50,GBP,-50,GBP,,,CAVEPROJECT-EAFPX8,,CAVEPROJECT-EAFPX8,donations,donations,0
+tx_00009c4gxx1UkUnE13wN5l,2018-10,2018-10-25T07:52:37Z,-60,GBP,-60,GBP,,,Transfer to pot Peer Bonus Fund,,,to_saving,to_saving,0
+tx_00009cJnjyImoMXiRjtNE9,2018-11,2018-11-01T14:49:12Z,-85,GBP,-85,GBP,,,Transfer to pot Savings,,,to_saving,to_saving,0
+tx_00009dcBEztgluhXxji6TJ,2018-12,2018-12-10T09:29:26Z,-100,GBP,-100,GBP,,,Transfer to pot Peer Bonus Fund,,,to_saving,to_saving,0
+tx_00009Y3Med46LnaeXBTWef,2018-06,2018-06-27T01:01:03Z,-149.44,GBP,-149.44,GBP,,,5570986003610804,,5570986003610804,credit_card,credit_card,0
+tx_00009W0v9inHp3tyofvEmX,2018-04,2018-04-27T01:00:10Z,-177.8,GBP,-177.8,GBP,,,5570986003610804,,5570986003610804,credit_card,credit_card,0
+tx_00009VHPshtM5Cbi2flsqv,2018-04,2018-04-05T02:07:44Z,-200,GBP,-200,GBP,,,Robert Sturrock (Faster Payments),,Robert monzo,to_saving,to_saving,0
+tx_00009cxKgxeVe0yPFdAVX7,2018-11,2018-11-20T16:32:10Z,-200,GBP,-200,GBP,,,Maria Lachenauer (P2P Payment),,Bankkk of Rob,to_saving,to_saving,1
+tx_00009d7sSd0cwGd4KgC3ub,2018-11,2018-11-25T18:37:39Z,-200,GBP,-200,GBP,,,Transfer to pot Peer Bonus Fund,,3 peer bonuses in November,to_saving,to_saving,0
+tx_00009V5uA6cq2j7qlQwGcT,2018-03,2018-03-30T12:50:29Z,-500,GBP,-500,GBP,,,Transfer to pot Travel,,,to_saving,to_saving,0
+tx_00009a7sUydBNhBqGtnov3,2018-08,2018-08-28T01:01:47Z,-500,GBP,-500,GBP,,,VG0049379000176666,,VG0049379000176666,vanguard,vanguard,0
+tx_00009b5zI7faoxQPoGJM9J,2018-09,2018-09-26T01:00:34Z,-500,GBP,-500,GBP,,,VG0049379000176666,,VG0049379000176666,vanguard,vanguard,0
+tx_00009Z3XyNPPPoISbolRAX,2018-07,2018-07-27T01:00:34Z,-597.78,GBP,-597.78,GBP,,,************0804,,************0804,credit_card,credit_card,0
+tx_00009X5FfN9Af9B90QB4vR,2018-05,2018-05-29T01:00:20Z,-778.37,GBP,-778.37,GBP,,,5570986003610804,,5570986003610804,credit_card,credit_card,0
+tx_00009UE1cwhyCXLg22Wx97,2018-03,2018-03-04T12:59:44Z,-837,GBP,-837,GBP,,,Transfer to pot Savings,,,to_saving,to_saving,0
+tx_00009X2r3Ax8lUcXjwGwgj,2018-05,2018-05-27T21:15:41Z,-900,GBP,-900,GBP,,,Transfer to pot Savings,,,to_saving,to_saving,0
+tx_00009YBCv3FtIbaWqiGohF,2018-06,2018-06-30T19:50:31Z,-900,GBP,-900,GBP,,,Transfer to pot Savings,,,to_saving,to_saving,0
+tx_00009Yzg1LLJZjLM4Sw1tx,2018-07,2018-07-25T04:12:10Z,-900,GBP,-900,GBP,,,Transfer to pot Savings,,,to_saving,to_saving,0
+tx_00009ZzgdeUgrlfkj6aJKz,2018-08,2018-08-24T02:11:12Z,-900,GBP,-900,GBP,,,Transfer to pot Savings,,,to_saving,to_saving,0
+tx_00009Tq02OIBuyQL7WRKPR,2018-02,2018-02-20T22:48:50Z,-1000,GBP,-1000,GBP,,,Robert Sturrock (Faster Payments),,"#saving
+",to_saving,to_saving,0
+tx_00009XT03F1Haz9U3BH3Xl,2018-06,2018-06-09T11:59:02Z,-1000,GBP,-1000,GBP,,,Transfer to pot Savings,,,to_saving,to_saving,0
+tx_00009cJnanOnyjP1dtFnI9,2018-11,2018-11-01T14:47:33Z,-1000,GBP,-1000,GBP,,,Transfer to pot Savings,,,to_saving,to_saving,0
+tx_00009TpzM4rvkBsQiUyooT,2018-02,2018-02-20T22:41:12Z,-1100,GBP,-1100,GBP,,,Transfer to pot Savings,,,to_saving,to_saving,0
+tx_00009UE1efojyJ0lUn7OaH,2018-03,2018-03-04T13:00:02Z,-1100,GBP,-1100,GBP,,,Transfer to pot Savings,,,to_saving,to_saving,0
+tx_00009W4Zkj5UGz0woqwNf7,2018-04,2018-04-28T19:19:12Z,-1100,GBP,-1100,GBP,,,Transfer to pot Savings,,,to_saving,to_saving,0
+tx_00009V0jriq9lZVSceGwDp,2018-03,2018-03-28T01:01:33Z,-1225.96,GBP,-1225.96,GBP,,,5570986003610804,,5570986003610804,credit_card,credit_card,0
+tx_00009cJnhMSQXr8G6z4vwX,2018-11,2018-11-01T14:48:44Z,-1447.63,GBP,-1447.63,GBP,,,Transfer to pot Savings,,,to_saving,to_saving,0
+tx_00009V5u59rQaQyYzOChov,2018-03,2018-03-30T12:49:36Z,-1900,GBP,-1900,GBP,,,Transfer to pot Savings,,,to_saving,to_saving,0
+tx_00009dDhrlx2tapHaLocl7,2018-11,2018-11-28T14:07:13Z,-2200,GBP,-2200,GBP,,,Transfer to pot Savings,,,to_saving,to_saving,0
